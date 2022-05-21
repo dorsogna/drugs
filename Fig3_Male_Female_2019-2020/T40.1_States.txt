@@ -1,0 +1,874 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	Suppressed	2488375	Suppressed
+	"Alabama"	"01"	"Female"	"F"	"2014"	"2014"	46	2499410	1.8
+	"Alabama"	"01"	"Female"	"F"	"2015"	"2015"	24	2505795	1.0
+	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	30	2507714	1.2
+	"Alabama"	"01"	"Female"	"F"	"2017"	"2017"	32	2514911	1.3
+	"Alabama"	"01"	"Female"	"F"	"2018"	"2018"	29	2523756	1.1
+	"Alabama"	"01"	"Female"	"F"	"2019"	"2019"	36	2533668	1.4
+	"Alabama"	"01"	"Female"	"F"	"2020 "	"2020"	41	2544566	1.6
+	"Alabama"	"01"	"Male"	"M"	"2013"	"2013"	32	2345347	1.4
+	"Alabama"	"01"	"Male"	"M"	"2014"	"2014"	76	2349967	3.2
+	"Alabama"	"01"	"Male"	"M"	"2015"	"2015"	87	2353184	3.7
+	"Alabama"	"01"	"Male"	"M"	"2016"	"2016"	96	2355586	4.1
+	"Alabama"	"01"	"Male"	"M"	"2017"	"2017"	93	2359836	3.9
+	"Alabama"	"01"	"Male"	"M"	"2018"	"2018"	108	2364115	4.6
+	"Alabama"	"01"	"Male"	"M"	"2019"	"2019"	105	2369517	4.4
+	"Alabama"	"01"	"Male"	"M"	"2020 "	"2020"	97	2376966	4.1
+	"Alaska"	"02"	"Female"	"F"	"2013"	"2013"	Suppressed	349564	Suppressed
+	"Alaska"	"02"	"Female"	"F"	"2014"	"2014"	Suppressed	349436	Suppressed
+	"Alaska"	"02"	"Female"	"F"	"2015"	"2015"	11	349407	Unreliable
+	"Alaska"	"02"	"Female"	"F"	"2016"	"2016"	10	353762	Unreliable
+	"Alaska"	"02"	"Female"	"F"	"2017"	"2017"	17	353003	Unreliable
+	"Alaska"	"02"	"Female"	"F"	"2018"	"2018"	Suppressed	352865	Suppressed
+	"Alaska"	"02"	"Female"	"F"	"2019"	"2019"	Suppressed	350127	Suppressed
+	"Alaska"	"02"	"Female"	"F"	"2020 "	"2020"	10	349621	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"2013"	"2013"	20	385568	5.2
+	"Alaska"	"02"	"Male"	"M"	"2014"	"2014"	19	387296	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"2015"	"2015"	26	389025	6.7
+	"Alaska"	"02"	"Male"	"M"	"2016"	"2016"	39	388132	10.0
+	"Alaska"	"02"	"Male"	"M"	"2017"	"2017"	19	386792	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"2018"	"2018"	21	384573	5.5
+	"Alaska"	"02"	"Male"	"M"	"2019"	"2019"	37	381418	9.7
+	"Alaska"	"02"	"Male"	"M"	"2020 "	"2020"	25	381537	6.6
+	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"	26	3331505	0.8
+	"Arizona"	"04"	"Female"	"F"	"2014"	"2014"	34	3387637	1.0
+	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"	67	3436575	1.9
+	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"	66	3488176	1.9
+	"Arizona"	"04"	"Female"	"F"	"2017"	"2017"	78	3527969	2.2
+	"Arizona"	"04"	"Female"	"F"	"2018"	"2018"	71	3606307	2.0
+	"Arizona"	"04"	"Female"	"F"	"2019"	"2019"	53	3661420	1.4
+	"Arizona"	"04"	"Female"	"F"	"2020 "	"2020"	54	3735475	1.4
+	"Arizona"	"04"	"Male"	"M"	"2013"	"2013"	120	3295119	3.6
+	"Arizona"	"04"	"Male"	"M"	"2014"	"2014"	163	3343847	4.9
+	"Arizona"	"04"	"Male"	"M"	"2015"	"2015"	180	3391490	5.3
+	"Arizona"	"04"	"Male"	"M"	"2016"	"2016"	233	3442895	6.8
+	"Arizona"	"04"	"Male"	"M"	"2017"	"2017"	256	3488301	7.3
+	"Arizona"	"04"	"Male"	"M"	"2018"	"2018"	281	3565339	7.9
+	"Arizona"	"04"	"Male"	"M"	"2019"	"2019"	218	3617297	6.0
+	"Arizona"	"04"	"Male"	"M"	"2020 "	"2020"	163	3685926	4.4
+	"Arkansas"	"05"	"Female"	"F"	"2013"	"2013"	Suppressed	1505782	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2014"	"2014"	Suppressed	1509053	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2015"	"2015"	Suppressed	1515348	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2016"	"2016"	Suppressed	1520375	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2017"	"2017"	Suppressed	1528215	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2018"	"2018"	Suppressed	1533682	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2019"	"2019"	Suppressed	1536188	Suppressed
+	"Arkansas"	"05"	"Female"	"F"	"2020 "	"2020"	10	1543666	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"2013"	"2013"	Suppressed	1453591	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"2014"	"2014"	Suppressed	1457316	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"2015"	"2015"	Suppressed	1462856	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"2016"	"2016"	12	1467873	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"2017"	"2017"	12	1476064	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"2018"	"2018"	12	1480143	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"2019"	"2019"	28	1481616	1.9
+	"Arkansas"	"05"	"Male"	"M"	"2020 "	"2020"	11	1486856	Unreliable
+	"California"	"06"	"Female"	"F"	"2013"	"2013"	82	19268325	0.4
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	91	19533596	0.5
+	"California"	"06"	"Female"	"F"	"2015"	"2015"	131	19701750	0.7
+	"California"	"06"	"Female"	"F"	"2016"	"2016"	107	19756656	0.5
+	"California"	"06"	"Female"	"F"	"2017"	"2017"	130	19889100	0.7
+	"California"	"06"	"Female"	"F"	"2018"	"2018"	153	19893468	0.8
+	"California"	"06"	"Female"	"F"	"2019"	"2019"	197	19867369	1.0
+	"California"	"06"	"Female"	"F"	"2020 "	"2020"	187	19790589	0.9
+	"California"	"06"	"Male"	"M"	"2013"	"2013"	404	19064196	2.1
+	"California"	"06"	"Male"	"M"	"2014"	"2014"	470	19268904	2.4
+	"California"	"06"	"Male"	"M"	"2015"	"2015"	462	19443068	2.4
+	"California"	"06"	"Male"	"M"	"2016"	"2016"	480	19493361	2.5
+	"California"	"06"	"Male"	"M"	"2017"	"2017"	585	19647553	3.0
+	"California"	"06"	"Male"	"M"	"2018"	"2018"	625	19663577	3.2
+	"California"	"06"	"Male"	"M"	"2019"	"2019"	767	19644854	3.9
+	"California"	"06"	"Male"	"M"	"2020 "	"2020"	815	19577489	4.2
+	"Colorado"	"08"	"Female"	"F"	"2013"	"2013"	25	2621921	1.0
+	"Colorado"	"08"	"Female"	"F"	"2014"	"2014"	29	2664707	1.1
+	"Colorado"	"08"	"Female"	"F"	"2015"	"2015"	35	2712811	1.3
+	"Colorado"	"08"	"Female"	"F"	"2016"	"2016"	54	2754727	2.0
+	"Colorado"	"08"	"Female"	"F"	"2017"	"2017"	50	2784821	1.8
+	"Colorado"	"08"	"Female"	"F"	"2018"	"2018"	45	2827696	1.6
+	"Colorado"	"08"	"Female"	"F"	"2019"	"2019"	44	2857388	1.5
+	"Colorado"	"08"	"Female"	"F"	"2020 "	"2020"	53	2881832	1.8
+	"Colorado"	"08"	"Male"	"M"	"2013"	"2013"	95	2646446	3.6
+	"Colorado"	"08"	"Male"	"M"	"2014"	"2014"	127	2691159	4.7
+	"Colorado"	"08"	"Male"	"M"	"2015"	"2015"	124	2743763	4.5
+	"Colorado"	"08"	"Male"	"M"	"2016"	"2016"	180	2785818	6.5
+	"Colorado"	"08"	"Male"	"M"	"2017"	"2017"	174	2822333	6.2
+	"Colorado"	"08"	"Male"	"M"	"2018"	"2018"	188	2867868	6.6
+	"Colorado"	"08"	"Male"	"M"	"2019"	"2019"	171	2901348	5.9
+	"Colorado"	"08"	"Male"	"M"	"2020 "	"2020"	167	2925887	5.7
+	"Connecticut"	"09"	"Female"	"F"	"2013"	"2013"	54	1841929	2.9
+	"Connecticut"	"09"	"Female"	"F"	"2014"	"2014"	77	1842128	4.2
+	"Connecticut"	"09"	"Female"	"F"	"2015"	"2015"	72	1839139	3.9
+	"Connecticut"	"09"	"Female"	"F"	"2016"	"2016"	95	1830837	5.2
+	"Connecticut"	"09"	"Female"	"F"	"2017"	"2017"	89	1836384	4.8
+	"Connecticut"	"09"	"Female"	"F"	"2018"	"2018"	68	1829270	3.7
+	"Connecticut"	"09"	"Female"	"F"	"2019"	"2019"	73	1825870	4.0
+	"Connecticut"	"09"	"Female"	"F"	"2020 "	"2020"	42	1822086	2.3
+	"Connecticut"	"09"	"Male"	"M"	"2013"	"2013"	173	1754151	9.9
+	"Connecticut"	"09"	"Male"	"M"	"2014"	"2014"	222	1754549	12.7
+	"Connecticut"	"09"	"Male"	"M"	"2015"	"2015"	318	1751747	18.2
+	"Connecticut"	"09"	"Male"	"M"	"2016"	"2016"	355	1745615	20.3
+	"Connecticut"	"09"	"Male"	"M"	"2017"	"2017"	336	1751800	19.2
+	"Connecticut"	"09"	"Male"	"M"	"2018"	"2018"	270	1743395	15.5
+	"Connecticut"	"09"	"Male"	"M"	"2019"	"2019"	266	1739417	15.3
+	"Connecticut"	"09"	"Male"	"M"	"2020 "	"2020"	167	1734920	9.6
+	"Delaware"	"10"	"Female"	"F"	"2013"	"2013"	Suppressed	477802	Suppressed
+	"Delaware"	"10"	"Female"	"F"	"2014"	"2014"	Suppressed	482925	Suppressed
+	"Delaware"	"10"	"Female"	"F"	"2015"	"2015"	19	488125	Unreliable
+	"Delaware"	"10"	"Female"	"F"	"2016"	"2016"	16	491395	Unreliable
+	"Delaware"	"10"	"Female"	"F"	"2017"	"2017"	30	496425	6.0
+	"Delaware"	"10"	"Female"	"F"	"2018"	"2018"	36	499244	7.2
+	"Delaware"	"10"	"Female"	"F"	"2019"	"2019"	27	502971	5.4
+	"Delaware"	"10"	"Female"	"F"	"2020 "	"2020"	27	510069	5.3
+	"Delaware"	"10"	"Male"	"M"	"2013"	"2013"	35	447947	7.8
+	"Delaware"	"10"	"Male"	"M"	"2014"	"2014"	45	452689	9.9
+	"Delaware"	"10"	"Male"	"M"	"2015"	"2015"	45	457809	9.8
+	"Delaware"	"10"	"Male"	"M"	"2016"	"2016"	40	460670	8.7
+	"Delaware"	"10"	"Male"	"M"	"2017"	"2017"	91	465514	19.5
+	"Delaware"	"10"	"Male"	"M"	"2018"	"2018"	107	467927	22.9
+	"Delaware"	"10"	"Male"	"M"	"2019"	"2019"	82	470793	17.4
+	"Delaware"	"10"	"Male"	"M"	"2020 "	"2020"	64	476740	13.4
+	"District of Columbia"	"11"	"Female"	"F"	"2013"	"2013"	Suppressed	340199	Suppressed
+	"District of Columbia"	"11"	"Female"	"F"	"2014"	"2014"	Suppressed	346293	Suppressed
+	"District of Columbia"	"11"	"Female"	"F"	"2015"	"2015"	15	353627	Unreliable
+	"District of Columbia"	"11"	"Female"	"F"	"2016"	"2016"	31	357940	8.7
+	"District of Columbia"	"11"	"Female"	"F"	"2017"	"2017"	41	364773	11.2
+	"District of Columbia"	"11"	"Female"	"F"	"2018"	"2018"	19	369148	Unreliable
+	"District of Columbia"	"11"	"Female"	"F"	"2019"	"2019"	14	371038	Unreliable
+	"District of Columbia"	"11"	"Female"	"F"	"2020 "	"2020"	25	374884	6.7
+	"District of Columbia"	"11"	"Male"	"M"	"2013"	"2013"	29	306250	9.5
+	"District of Columbia"	"11"	"Male"	"M"	"2014"	"2014"	29	312600	9.3
+	"District of Columbia"	"11"	"Male"	"M"	"2015"	"2015"	52	318601	16.3
+	"District of Columbia"	"11"	"Male"	"M"	"2016"	"2016"	91	323230	28.2
+	"District of Columbia"	"11"	"Male"	"M"	"2017"	"2017"	86	329199	26.1
+	"District of Columbia"	"11"	"Male"	"M"	"2018"	"2018"	60	333307	18.0
+	"District of Columbia"	"11"	"Male"	"M"	"2019"	"2019"	71	334711	21.2
+	"District of Columbia"	"11"	"Male"	"M"	"2020 "	"2020"	61	337932	18.1
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	25	9990213	0.3
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	73	10170011	0.7
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	133	10368733	1.3
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	152	10542288	1.4
+	"Florida"	"12"	"Female"	"F"	"2017"	"2017"	197	10727581	1.8
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	163	10887548	1.5
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	178	10980681	1.6
+	"Florida"	"12"	"Female"	"F"	"2020 "	"2020"	159	11113132	1.4
+	"Florida"	"12"	"Male"	"M"	"2013"	"2013"	156	9562647	1.6
+	"Florida"	"12"	"Male"	"M"	"2014"	"2014"	271	9723286	2.8
+	"Florida"	"12"	"Male"	"M"	"2015"	"2015"	434	9902539	4.4
+	"Florida"	"12"	"Male"	"M"	"2016"	"2016"	517	10070151	5.1
+	"Florida"	"12"	"Male"	"M"	"2017"	"2017"	510	10256819	5.0
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	526	10411777	5.1
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	520	10497056	5.0
+	"Florida"	"12"	"Male"	"M"	"2020 "	"2020"	480	10620180	4.5
+	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	13	5110806	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	23	5170356	0.4
+	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	49	5234978	0.9
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	40	5289906	0.8
+	"Georgia"	"13"	"Female"	"F"	"2017"	"2017"	55	5353872	1.0
+	"Georgia"	"13"	"Female"	"F"	"2018"	"2018"	75	5404059	1.4
+	"Georgia"	"13"	"Female"	"F"	"2019"	"2019"	60	5456999	1.1
+	"Georgia"	"13"	"Female"	"F"	"2020 "	"2020"	106	5508468	1.9
+	"Georgia"	"13"	"Male"	"M"	"2013"	"2013"	54	4881361	1.1
+	"Georgia"	"13"	"Male"	"M"	"2014"	"2014"	130	4926987	2.6
+	"Georgia"	"13"	"Male"	"M"	"2015"	"2015"	173	4979882	3.5
+	"Georgia"	"13"	"Male"	"M"	"2016"	"2016"	186	5020465	3.7
+	"Georgia"	"13"	"Male"	"M"	"2017"	"2017"	208	5075507	4.1
+	"Georgia"	"13"	"Male"	"M"	"2018"	"2018"	224	5115416	4.4
+	"Georgia"	"13"	"Male"	"M"	"2019"	"2019"	238	5160424	4.6
+	"Georgia"	"13"	"Male"	"M"	"2020 "	"2020"	289	5201549	5.6
+	"Hawaii"	"15"	"Female"	"F"	"2013"	"2013"	Suppressed	694440	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2014"	"2014"	Suppressed	701462	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2015"	"2015"	Suppressed	706231	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2016"	"2016"	Suppressed	710942	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2017"	"2017"	Suppressed	711451	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2018"	"2018"	Suppressed	709489	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2019"	"2019"	Suppressed	707832	Suppressed
+	"Hawaii"	"15"	"Female"	"F"	"2020 "	"2020"	Suppressed	702640	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"2013"	"2013"	Suppressed	709614	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"2014"	"2014"	10	718099	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2015"	"2015"	12	725372	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2016"	"2016"	17	717615	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2017"	"2017"	10	716087	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2018"	"2018"	12	711002	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2019"	"2019"	12	708040	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"2020 "	"2020"	15	704366	Unreliable
+	"Idaho"	"16"	"Female"	"F"	"2013"	"2013"	Suppressed	805052	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2014"	"2014"	Suppressed	815968	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2015"	"2015"	Suppressed	826183	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2016"	"2016"	Suppressed	839608	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2017"	"2017"	Suppressed	856485	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2018"	"2018"	Suppressed	875131	Suppressed
+	"Idaho"	"16"	"Female"	"F"	"2019"	"2019"	12	891137	Unreliable
+	"Idaho"	"16"	"Female"	"F"	"2020 "	"2020"	11	910789	Unreliable
+	"Idaho"	"16"	"Male"	"M"	"2013"	"2013"	Suppressed	807084	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"2014"	"2014"	Suppressed	818496	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"2015"	"2015"	15	828747	Unreliable
+	"Idaho"	"16"	"Male"	"M"	"2016"	"2016"	23	843532	2.7
+	"Idaho"	"16"	"Male"	"M"	"2017"	"2017"	20	860458	2.3
+	"Idaho"	"16"	"Male"	"M"	"2018"	"2018"	21	879077	2.4
+	"Idaho"	"16"	"Male"	"M"	"2019"	"2019"	26	895928	2.9
+	"Idaho"	"16"	"Male"	"M"	"2020 "	"2020"	27	916124	2.9
+	"Illinois"	"17"	"Female"	"F"	"2013"	"2013"	105	6555652	1.6
+	"Illinois"	"17"	"Female"	"F"	"2014"	"2014"	172	6559694	2.6
+	"Illinois"	"17"	"Female"	"F"	"2015"	"2015"	217	6545500	3.3
+	"Illinois"	"17"	"Female"	"F"	"2016"	"2016"	243	6509748	3.7
+	"Illinois"	"17"	"Female"	"F"	"2017"	"2017"	294	6509545	4.5
+	"Illinois"	"17"	"Female"	"F"	"2018"	"2018"	266	6480179	4.1
+	"Illinois"	"17"	"Female"	"F"	"2019"	"2019"	245	6445263	3.8
+	"Illinois"	"17"	"Female"	"F"	"2020 "	"2020"	249	6402224	3.9
+	"Illinois"	"17"	"Male"	"M"	"2013"	"2013"	478	6326483	7.6
+	"Illinois"	"17"	"Male"	"M"	"2014"	"2014"	539	6320886	8.5
+	"Illinois"	"17"	"Male"	"M"	"2015"	"2015"	627	6314495	9.9
+	"Illinois"	"17"	"Male"	"M"	"2016"	"2016"	797	6291791	12.7
+	"Illinois"	"17"	"Male"	"M"	"2017"	"2017"	893	6292478	14.2
+	"Illinois"	"17"	"Male"	"M"	"2018"	"2018"	784	6260901	12.5
+	"Illinois"	"17"	"Male"	"M"	"2019"	"2019"	733	6226558	11.8
+	"Illinois"	"17"	"Male"	"M"	"2020 "	"2020"	803	6185306	13.0
+	"Indiana"	"18"	"Female"	"F"	"2013"	"2013"	30	3334634	0.9
+	"Indiana"	"18"	"Female"	"F"	"2014"	"2014"	39	3347411	1.2
+	"Indiana"	"18"	"Female"	"F"	"2015"	"2015"	67	3357815	2.0
+	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"	73	3363491	2.2
+	"Indiana"	"18"	"Female"	"F"	"2017"	"2017"	92	3379723	2.7
+	"Indiana"	"18"	"Female"	"F"	"2018"	"2018"	97	3391576	2.9
+	"Indiana"	"18"	"Female"	"F"	"2019"	"2019"	104	3411859	3.0
+	"Indiana"	"18"	"Female"	"F"	"2020 "	"2020"	68	3422994	2.0
+	"Indiana"	"18"	"Male"	"M"	"2013"	"2013"	130	3236268	4.0
+	"Indiana"	"18"	"Male"	"M"	"2014"	"2014"	134	3249444	4.1
+	"Indiana"	"18"	"Male"	"M"	"2015"	"2015"	173	3261865	5.3
+	"Indiana"	"18"	"Male"	"M"	"2016"	"2016"	224	3269562	6.9
+	"Indiana"	"18"	"Male"	"M"	"2017"	"2017"	235	3287095	7.1
+	"Indiana"	"18"	"Male"	"M"	"2018"	"2018"	214	3300302	6.5
+	"Indiana"	"18"	"Male"	"M"	"2019"	"2019"	204	3320360	6.1
+	"Indiana"	"18"	"Male"	"M"	"2020 "	"2020"	145	3331959	4.4
+	"Iowa"	"19"	"Female"	"F"	"2013"	"2013"	Suppressed	1557015	Suppressed
+	"Iowa"	"19"	"Female"	"F"	"2014"	"2014"	11	1564081	Unreliable
+	"Iowa"	"19"	"Female"	"F"	"2015"	"2015"	11	1571873	Unreliable
+	"Iowa"	"19"	"Female"	"F"	"2016"	"2016"	11	1575574	Unreliable
+	"Iowa"	"19"	"Female"	"F"	"2017"	"2017"	17	1580978	Unreliable
+	"Iowa"	"19"	"Female"	"F"	"2018"	"2018"	Suppressed	1585338	Suppressed
+	"Iowa"	"19"	"Female"	"F"	"2019"	"2019"	10	1583995	Unreliable
+	"Iowa"	"19"	"Female"	"F"	"2020 "	"2020"	16	1587866	Unreliable
+	"Iowa"	"19"	"Male"	"M"	"2013"	"2013"	23	1533401	1.5
+	"Iowa"	"19"	"Male"	"M"	"2014"	"2014"	26	1543045	1.7
+	"Iowa"	"19"	"Male"	"M"	"2015"	"2015"	34	1552026	2.2
+	"Iowa"	"19"	"Male"	"M"	"2016"	"2016"	36	1559119	2.3
+	"Iowa"	"19"	"Male"	"M"	"2017"	"2017"	44	1564733	2.8
+	"Iowa"	"19"	"Male"	"M"	"2018"	"2018"	29	1570807	1.8
+	"Iowa"	"19"	"Male"	"M"	"2019"	"2019"	35	1571075	2.2
+	"Iowa"	"19"	"Male"	"M"	"2020 "	"2020"	39	1575695	2.5
+	"Kansas"	"20"	"Female"	"F"	"2013"	"2013"	Suppressed	1452009	Suppressed
+	"Kansas"	"20"	"Female"	"F"	"2014"	"2014"	Suppressed	1456666	Suppressed
+	"Kansas"	"20"	"Female"	"F"	"2015"	"2015"	Suppressed	1458008	Suppressed
+	"Kansas"	"20"	"Female"	"F"	"2016"	"2016"	Suppressed	1459530	Suppressed
+	"Kansas"	"20"	"Female"	"F"	"2017"	"2017"	Suppressed	1461167	Suppressed
+	"Kansas"	"20"	"Female"	"F"	"2018"	"2018"	12	1461099	Unreliable
+	"Kansas"	"20"	"Female"	"F"	"2019"	"2019"	10	1461617	Unreliable
+	"Kansas"	"20"	"Female"	"F"	"2020 "	"2020"	Suppressed	1462265	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"2013"	"2013"	12	1441948	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"2014"	"2014"	17	1447355	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"2015"	"2015"	15	1453633	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"2016"	"2016"	28	1447759	1.9
+	"Kansas"	"20"	"Male"	"M"	"2017"	"2017"	19	1451956	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"2018"	"2018"	21	1450406	1.4
+	"Kansas"	"20"	"Male"	"M"	"2019"	"2019"	32	1451697	2.2
+	"Kansas"	"20"	"Male"	"M"	"2020 "	"2020"	27	1451540	1.9
+	"Kentucky"	"21"	"Female"	"F"	"2013"	"2013"	51	2231899	2.3
+	"Kentucky"	"21"	"Female"	"F"	"2014"	"2014"	62	2240299	2.8
+	"Kentucky"	"21"	"Female"	"F"	"2015"	"2015"	88	2245998	3.9
+	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"	94	2250421	4.2
+	"Kentucky"	"21"	"Female"	"F"	"2017"	"2017"	79	2259871	3.5
+	"Kentucky"	"21"	"Female"	"F"	"2018"	"2018"	41	2266891	1.8
+	"Kentucky"	"21"	"Female"	"F"	"2019"	"2019"	38	2266644	1.7
+	"Kentucky"	"21"	"Female"	"F"	"2020 "	"2020"	25	2271906	1.1
+	"Kentucky"	"21"	"Male"	"M"	"2013"	"2013"	164	2163396	7.6
+	"Kentucky"	"21"	"Male"	"M"	"2014"	"2014"	166	2173158	7.6
+	"Kentucky"	"21"	"Male"	"M"	"2015"	"2015"	222	2179094	10.2
+	"Kentucky"	"21"	"Male"	"M"	"2016"	"2016"	217	2186553	9.9
+	"Kentucky"	"21"	"Male"	"M"	"2017"	"2017"	190	2194318	8.7
+	"Kentucky"	"21"	"Male"	"M"	"2018"	"2018"	99	2201511	4.5
+	"Kentucky"	"21"	"Male"	"M"	"2019"	"2019"	114	2201029	5.2
+	"Kentucky"	"21"	"Male"	"M"	"2020 "	"2020"	92	2205345	4.2
+	"Louisiana"	"22"	"Female"	"F"	"2013"	"2013"	26	2361537	1.1
+	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	19	2375737	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2015"	"2015"	28	2386915	1.2
+	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"	40	2392296	1.7
+	"Louisiana"	"22"	"Female"	"F"	"2017"	"2017"	42	2394887	1.8
+	"Louisiana"	"22"	"Female"	"F"	"2018"	"2018"	39	2385219	1.6
+	"Louisiana"	"22"	"Female"	"F"	"2019"	"2019"	57	2381744	2.4
+	"Louisiana"	"22"	"Female"	"F"	"2020 "	"2020"	69	2381158	2.9
+	"Louisiana"	"22"	"Male"	"M"	"2013"	"2013"	95	2263933	4.2
+	"Louisiana"	"22"	"Male"	"M"	"2014"	"2014"	88	2273939	3.9
+	"Louisiana"	"22"	"Male"	"M"	"2015"	"2015"	98	2283809	4.3
+	"Louisiana"	"22"	"Male"	"M"	"2016"	"2016"	109	2289370	4.8
+	"Louisiana"	"22"	"Male"	"M"	"2017"	"2017"	120	2289446	5.2
+	"Louisiana"	"22"	"Male"	"M"	"2018"	"2018"	128	2274759	5.6
+	"Louisiana"	"22"	"Male"	"M"	"2019"	"2019"	165	2267050	7.3
+	"Louisiana"	"22"	"Male"	"M"	"2020 "	"2020"	195	2264160	8.6
+	"Maine"	"23"	"Female"	"F"	"2013"	"2013"	Suppressed	678082	Suppressed
+	"Maine"	"23"	"Female"	"F"	"2014"	"2014"	Suppressed	678818	Suppressed
+	"Maine"	"23"	"Female"	"F"	"2015"	"2015"	13	678071	Unreliable
+	"Maine"	"23"	"Female"	"F"	"2016"	"2016"	18	678894	Unreliable
+	"Maine"	"23"	"Female"	"F"	"2017"	"2017"	15	681387	Unreliable
+	"Maine"	"23"	"Female"	"F"	"2018"	"2018"	16	683031	Unreliable
+	"Maine"	"23"	"Female"	"F"	"2019"	"2019"	18	686100	Unreliable
+	"Maine"	"23"	"Female"	"F"	"2020 "	"2020"	Suppressed	688840	Suppressed
+	"Maine"	"23"	"Male"	"M"	"2013"	"2013"	14	650220	Unreliable
+	"Maine"	"23"	"Male"	"M"	"2014"	"2014"	29	651271	4.5
+	"Maine"	"23"	"Male"	"M"	"2015"	"2015"	39	651257	6.0
+	"Maine"	"23"	"Male"	"M"	"2016"	"2016"	37	652585	5.7
+	"Maine"	"23"	"Male"	"M"	"2017"	"2017"	61	654520	9.3
+	"Maine"	"23"	"Male"	"M"	"2018"	"2018"	55	655373	8.4
+	"Maine"	"23"	"Male"	"M"	"2019"	"2019"	40	658112	6.1
+	"Maine"	"23"	"Male"	"M"	"2020 "	"2020"	42	661301	6.4
+	"Maryland"	"24"	"Female"	"F"	"2013"	"2013"	33	3054052	1.1
+	"Maryland"	"24"	"Female"	"F"	"2014"	"2014"	63	3079989	2.0
+	"Maryland"	"24"	"Female"	"F"	"2015"	"2015"	62	3095316	2.0
+	"Maryland"	"24"	"Female"	"F"	"2016"	"2016"	137	3101981	4.4
+	"Maryland"	"24"	"Female"	"F"	"2017"	"2017"	109	3118023	3.5
+	"Maryland"	"24"	"Female"	"F"	"2018"	"2018"	83	3113797	2.7
+	"Maryland"	"24"	"Female"	"F"	"2019"	"2019"	52	3116815	1.7
+	"Maryland"	"24"	"Female"	"F"	"2020 "	"2020"	30	3123228	1.0
+	"Maryland"	"24"	"Male"	"M"	"2013"	"2013"	184	2874762	6.4
+	"Maryland"	"24"	"Male"	"M"	"2014"	"2014"	250	2896418	8.6
+	"Maryland"	"24"	"Male"	"M"	"2015"	"2015"	343	2911085	11.8
+	"Maryland"	"24"	"Male"	"M"	"2016"	"2016"	513	2914466	17.6
+	"Maryland"	"24"	"Male"	"M"	"2017"	"2017"	413	2934154	14.1
+	"Maryland"	"24"	"Male"	"M"	"2018"	"2018"	273	2928921	9.3
+	"Maryland"	"24"	"Male"	"M"	"2019"	"2019"	157	2928865	5.4
+	"Maryland"	"24"	"Male"	"M"	"2020 "	"2020"	96	2932574	3.3
+	"Massachusetts"	"25"	"Female"	"F"	"2013"	"2013"	67	3448008	1.9
+	"Massachusetts"	"25"	"Female"	"F"	"2014"	"2014"	110	3474584	3.2
+	"Massachusetts"	"25"	"Female"	"F"	"2015"	"2015"	144	3498304	4.1
+	"Massachusetts"	"25"	"Female"	"F"	"2016"	"2016"	148	3506128	4.2
+	"Massachusetts"	"25"	"Female"	"F"	"2017"	"2017"	112	3529454	3.2
+	"Massachusetts"	"25"	"Female"	"F"	"2018"	"2018"	113	3551621	3.2
+	"Massachusetts"	"25"	"Female"	"F"	"2019"	"2019"	84	3546935	2.4
+	"Massachusetts"	"25"	"Female"	"F"	"2020 "	"2020"	63	3546542	1.8
+	"Massachusetts"	"25"	"Male"	"M"	"2013"	"2013"	221	3244816	6.8
+	"Massachusetts"	"25"	"Male"	"M"	"2014"	"2014"	359	3270824	11.0
+	"Massachusetts"	"25"	"Male"	"M"	"2015"	"2015"	490	3296118	14.9
+	"Massachusetts"	"25"	"Male"	"M"	"2016"	"2016"	482	3305651	14.6
+	"Massachusetts"	"25"	"Male"	"M"	"2017"	"2017"	354	3330365	10.6
+	"Massachusetts"	"25"	"Male"	"M"	"2018"	"2018"	362	3350528	10.8
+	"Massachusetts"	"25"	"Male"	"M"	"2019"	"2019"	291	3345568	8.7
+	"Massachusetts"	"25"	"Male"	"M"	"2020 "	"2020"	158	3347032	4.7
+	"Michigan"	"26"	"Female"	"F"	"2013"	"2013"	100	5036338	2.0
+	"Michigan"	"26"	"Female"	"F"	"2014"	"2014"	130	5041414	2.6
+	"Michigan"	"26"	"Female"	"F"	"2015"	"2015"	176	5044428	3.5
+	"Michigan"	"26"	"Female"	"F"	"2016"	"2016"	204	5043554	4.0
+	"Michigan"	"26"	"Female"	"F"	"2017"	"2017"	229	5058559	4.5
+	"Michigan"	"26"	"Female"	"F"	"2018"	"2018"	209	5073772	4.1
+	"Michigan"	"26"	"Female"	"F"	"2019"	"2019"	147	5068329	2.9
+	"Michigan"	"26"	"Female"	"F"	"2020 "	"2020"	129	5058742	2.6
+	"Michigan"	"26"	"Male"	"M"	"2013"	"2013"	321	4859284	6.6
+	"Michigan"	"26"	"Male"	"M"	"2014"	"2014"	395	4868463	8.1
+	"Michigan"	"26"	"Male"	"M"	"2015"	"2015"	470	4878148	9.6
+	"Michigan"	"26"	"Male"	"M"	"2016"	"2016"	523	4884746	10.7
+	"Michigan"	"26"	"Male"	"M"	"2017"	"2017"	554	4903752	11.3
+	"Michigan"	"26"	"Male"	"M"	"2018"	"2018"	424	4922143	8.6
+	"Michigan"	"26"	"Male"	"M"	"2019"	"2019"	330	4918528	6.7
+	"Michigan"	"26"	"Male"	"M"	"2020 "	"2020"	324	4907813	6.6
+	"Minnesota"	"27"	"Female"	"F"	"2013"	"2013"	15	2727081	Unreliable
+	"Minnesota"	"27"	"Female"	"F"	"2014"	"2014"	22	2745132	0.8
+	"Minnesota"	"27"	"Female"	"F"	"2015"	"2015"	32	2759730	1.2
+	"Minnesota"	"27"	"Female"	"F"	"2016"	"2016"	33	2772322	1.2
+	"Minnesota"	"27"	"Female"	"F"	"2017"	"2017"	30	2799760	1.1
+	"Minnesota"	"27"	"Female"	"F"	"2018"	"2018"	28	2816378	1.0
+	"Minnesota"	"27"	"Female"	"F"	"2019"	"2019"	30	2829821	1.1
+	"Minnesota"	"27"	"Female"	"F"	"2020 "	"2020"	37	2838748	1.3
+	"Minnesota"	"27"	"Male"	"M"	"2013"	"2013"	77	2693299	2.9
+	"Minnesota"	"27"	"Male"	"M"	"2014"	"2014"	78	2712041	2.9
+	"Minnesota"	"27"	"Male"	"M"	"2015"	"2015"	83	2729864	3.0
+	"Minnesota"	"27"	"Male"	"M"	"2016"	"2016"	116	2747630	4.2
+	"Minnesota"	"27"	"Male"	"M"	"2017"	"2017"	81	2776846	2.9
+	"Minnesota"	"27"	"Male"	"M"	"2018"	"2018"	65	2794801	2.3
+	"Minnesota"	"27"	"Male"	"M"	"2019"	"2019"	76	2809811	2.7
+	"Minnesota"	"27"	"Male"	"M"	"2020 "	"2020"	85	2818594	3.0
+	"Mississippi"	"28"	"Female"	"F"	"2013"	"2013"	Suppressed	1536620	Suppressed
+	"Mississippi"	"28"	"Female"	"F"	"2014"	"2014"	Suppressed	1539523	Suppressed
+	"Mississippi"	"28"	"Female"	"F"	"2015"	"2015"	Suppressed	1540483	Suppressed
+	"Mississippi"	"28"	"Female"	"F"	"2016"	"2016"	Suppressed	1539934	Suppressed
+	"Mississippi"	"28"	"Female"	"F"	"2017"	"2017"	Suppressed	1538222	Suppressed
+	"Mississippi"	"28"	"Female"	"F"	"2018"	"2018"	16	1538795	Unreliable
+	"Mississippi"	"28"	"Female"	"F"	"2019"	"2019"	16	1533857	Unreliable
+	"Mississippi"	"28"	"Female"	"F"	"2020 "	"2020"	18	1530971	Unreliable
+	"Mississippi"	"28"	"Male"	"M"	"2013"	"2013"	Suppressed	1454587	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"2014"	"2014"	22	1454556	1.5
+	"Mississippi"	"28"	"Male"	"M"	"2015"	"2015"	34	1451850	2.3
+	"Mississippi"	"28"	"Male"	"M"	"2016"	"2016"	25	1448792	1.7
+	"Mississippi"	"28"	"Male"	"M"	"2017"	"2017"	26	1445878	1.8
+	"Mississippi"	"28"	"Male"	"M"	"2018"	"2018"	23	1447735	1.6
+	"Mississippi"	"28"	"Male"	"M"	"2019"	"2019"	62	1442292	4.3
+	"Mississippi"	"28"	"Male"	"M"	"2020 "	"2020"	53	1435815	3.7
+	"Missouri"	"29"	"Female"	"F"	"2013"	"2013"	57	3080214	1.9
+	"Missouri"	"29"	"Female"	"F"	"2014"	"2014"	73	3089367	2.4
+	"Missouri"	"29"	"Female"	"F"	"2015"	"2015"	73	3098627	2.4
+	"Missouri"	"29"	"Female"	"F"	"2016"	"2016"	94	3100965	3.0
+	"Missouri"	"29"	"Female"	"F"	"2017"	"2017"	89	3111296	2.9
+	"Missouri"	"29"	"Female"	"F"	"2018"	"2018"	102	3118889	3.3
+	"Missouri"	"29"	"Female"	"F"	"2019"	"2019"	58	3124766	1.9
+	"Missouri"	"29"	"Female"	"F"	"2020 "	"2020"	43	3133825	1.4
+	"Missouri"	"29"	"Male"	"M"	"2013"	"2013"	204	2963957	6.9
+	"Missouri"	"29"	"Male"	"M"	"2014"	"2014"	261	2974222	8.8
+	"Missouri"	"29"	"Male"	"M"	"2015"	"2015"	230	2985045	7.7
+	"Missouri"	"29"	"Male"	"M"	"2016"	"2016"	286	2992035	9.6
+	"Missouri"	"29"	"Male"	"M"	"2017"	"2017"	210	3002236	7.0
+	"Missouri"	"29"	"Male"	"M"	"2018"	"2018"	249	3007563	8.3
+	"Missouri"	"29"	"Male"	"M"	"2019"	"2019"	166	3012662	5.5
+	"Missouri"	"29"	"Male"	"M"	"2020 "	"2020"	102	3017723	3.4
+	"Montana"	"30"	"Female"	"F"	"2013"	"2013"	Suppressed	505367	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2014"	"2014"	Suppressed	509456	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2015"	"2015"	Suppressed	513619	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2016"	"2016"	Suppressed	517745	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2017"	"2017"	Suppressed	521537	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2018"	"2018"	Suppressed	527453	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2019"	"2019"	Suppressed	530712	Suppressed
+	"Montana"	"30"	"Female"	"F"	"2020 "	"2020"	Suppressed	536476	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2013"	"2013"	Suppressed	509798	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2014"	"2014"	Suppressed	514123	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2015"	"2015"	Suppressed	519330	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2016"	"2016"	Suppressed	524775	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2017"	"2017"	Suppressed	528956	Suppressed
+	"Montana"	"30"	"Male"	"M"	"2018"	"2018"	18	534852	Unreliable
+	"Montana"	"30"	"Male"	"M"	"2019"	"2019"	22	538066	4.1
+	"Montana"	"30"	"Male"	"M"	"2020 "	"2020"	24	544101	4.4
+	"Nebraska"	"31"	"Female"	"F"	"2013"	"2013"	Suppressed	938690	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2014"	"2014"	Suppressed	944640	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2015"	"2015"	Suppressed	951022	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2016"	"2016"	Suppressed	956445	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2017"	"2017"	Suppressed	961945	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2018"	"2018"	Suppressed	965886	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2019"	"2019"	Suppressed	967959	Suppressed
+	"Nebraska"	"31"	"Female"	"F"	"2020 "	"2020"	Suppressed	969739	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2013"	"2013"	Suppressed	929826	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2014"	"2014"	Suppressed	936863	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2015"	"2015"	Suppressed	945168	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2016"	"2016"	Suppressed	950671	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2017"	"2017"	Suppressed	958131	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2018"	"2018"	Suppressed	963382	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"2019"	"2019"	12	966449	Unreliable
+	"Nebraska"	"31"	"Male"	"M"	"2020 "	"2020"	12	967813	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"2013"	"2013"	11	1384702	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"2014"	"2014"	17	1412306	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"2015"	"2015"	15	1440294	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"2016"	"2016"	22	1466061	1.5
+	"Nevada"	"32"	"Female"	"F"	"2017"	"2017"	22	1494290	1.5
+	"Nevada"	"32"	"Female"	"F"	"2018"	"2018"	28	1512837	1.9
+	"Nevada"	"32"	"Female"	"F"	"2019"	"2019"	34	1535329	2.2
+	"Nevada"	"32"	"Female"	"F"	"2020 "	"2020"	34	1565619	2.2
+	"Nevada"	"32"	"Male"	"M"	"2013"	"2013"	37	1405434	2.6
+	"Nevada"	"32"	"Male"	"M"	"2014"	"2014"	47	1426793	3.3
+	"Nevada"	"32"	"Male"	"M"	"2015"	"2015"	67	1450551	4.6
+	"Nevada"	"32"	"Male"	"M"	"2016"	"2016"	64	1473997	4.3
+	"Nevada"	"32"	"Male"	"M"	"2017"	"2017"	72	1503749	4.8
+	"Nevada"	"32"	"Male"	"M"	"2018"	"2018"	80	1521555	5.3
+	"Nevada"	"32"	"Male"	"M"	"2019"	"2019"	88	1544827	5.7
+	"Nevada"	"32"	"Male"	"M"	"2020 "	"2020"	96	1572640	6.1
+	"New Hampshire"	"33"	"Female"	"F"	"2013"	"2013"	10	669746	Unreliable
+	"New Hampshire"	"33"	"Female"	"F"	"2014"	"2014"	25	671344	3.7
+	"New Hampshire"	"33"	"Female"	"F"	"2015"	"2015"	23	672952	3.4
+	"New Hampshire"	"33"	"Female"	"F"	"2016"	"2016"	11	673935	Unreliable
+	"New Hampshire"	"33"	"Female"	"F"	"2017"	"2017"	Suppressed	677786	Suppressed
+	"New Hampshire"	"33"	"Female"	"F"	"2018"	"2018"	Suppressed	684192	Suppressed
+	"New Hampshire"	"33"	"Female"	"F"	"2019"	"2019"	Suppressed	685918	Suppressed
+	"New Hampshire"	"33"	"Female"	"F"	"2020 "	"2020"	Suppressed	689281	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"2013"	"2013"	57	653713	8.7
+	"New Hampshire"	"33"	"Male"	"M"	"2014"	"2014"	73	655469	11.1
+	"New Hampshire"	"33"	"Male"	"M"	"2015"	"2015"	55	657656	8.4
+	"New Hampshire"	"33"	"Male"	"M"	"2016"	"2016"	23	660860	3.5
+	"New Hampshire"	"33"	"Male"	"M"	"2017"	"2017"	22	665009	3.3
+	"New Hampshire"	"33"	"Male"	"M"	"2018"	"2018"	Suppressed	672266	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"2019"	"2019"	Suppressed	673793	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"2020 "	"2020"	Suppressed	676994	Suppressed
+	"New Jersey"	"34"	"Female"	"F"	"2013"	"2013"	102	4555374	2.2
+	"New Jersey"	"34"	"Female"	"F"	"2014"	"2014"	101	4576223	2.2
+	"New Jersey"	"34"	"Female"	"F"	"2015"	"2015"	124	4585897	2.7
+	"New Jersey"	"34"	"Female"	"F"	"2016"	"2016"	177	4576725	3.9
+	"New Jersey"	"34"	"Female"	"F"	"2017"	"2017"	252	4609070	5.5
+	"New Jersey"	"34"	"Female"	"F"	"2018"	"2018"	307	4556326	6.7
+	"New Jersey"	"34"	"Female"	"F"	"2019"	"2019"	231	4541603	5.1
+	"New Jersey"	"34"	"Female"	"F"	"2020 "	"2020"	143	4539322	3.2
+	"New Jersey"	"34"	"Male"	"M"	"2013"	"2013"	282	4343965	6.5
+	"New Jersey"	"34"	"Male"	"M"	"2014"	"2014"	323	4361952	7.4
+	"New Jersey"	"34"	"Male"	"M"	"2015"	"2015"	384	4372116	8.8
+	"New Jersey"	"34"	"Male"	"M"	"2016"	"2016"	673	4367744	15.4
+	"New Jersey"	"34"	"Male"	"M"	"2017"	"2017"	833	4396574	18.9
+	"New Jersey"	"34"	"Male"	"M"	"2018"	"2018"	980	4352194	22.5
+	"New Jersey"	"34"	"Male"	"M"	"2019"	"2019"	776	4340587	17.9
+	"New Jersey"	"34"	"Male"	"M"	"2020 "	"2020"	544	4343049	12.5
+	"New Mexico"	"35"	"Female"	"F"	"2013"	"2013"	20	1051678	1.9
+	"New Mexico"	"35"	"Female"	"F"	"2014"	"2014"	29	1052690	2.8
+	"New Mexico"	"35"	"Female"	"F"	"2015"	"2015"	33	1051688	3.1
+	"New Mexico"	"35"	"Female"	"F"	"2016"	"2016"	37	1050352	3.5
+	"New Mexico"	"35"	"Female"	"F"	"2017"	"2017"	28	1053926	2.7
+	"New Mexico"	"35"	"Female"	"F"	"2018"	"2018"	30	1058143	2.8
+	"New Mexico"	"35"	"Female"	"F"	"2019"	"2019"	46	1059397	4.3
+	"New Mexico"	"35"	"Female"	"F"	"2020 "	"2020"	48	1063860	4.5
+	"New Mexico"	"35"	"Male"	"M"	"2013"	"2013"	69	1033609	6.7
+	"New Mexico"	"35"	"Male"	"M"	"2014"	"2014"	110	1032882	10.6
+	"New Mexico"	"35"	"Male"	"M"	"2015"	"2015"	123	1033421	11.9
+	"New Mexico"	"35"	"Male"	"M"	"2016"	"2016"	124	1030663	12.0
+	"New Mexico"	"35"	"Male"	"M"	"2017"	"2017"	116	1034144	11.2
+	"New Mexico"	"35"	"Male"	"M"	"2018"	"2018"	100	1037285	9.6
+	"New Mexico"	"35"	"Male"	"M"	"2019"	"2019"	136	1037432	13.1
+	"New Mexico"	"35"	"Male"	"M"	"2020 "	"2020"	136	1042459	13.0
+	"New York"	"36"	"Female"	"F"	"2013"	"2013"	129	10114934	1.3
+	"New York"	"36"	"Female"	"F"	"2014"	"2014"	166	10164966	1.6
+	"New York"	"36"	"Female"	"F"	"2015"	"2015"	210	10184278	2.1
+	"New York"	"36"	"Female"	"F"	"2016"	"2016"	274	10157924	2.7
+	"New York"	"36"	"Female"	"F"	"2017"	"2017"	279	10211937	2.7
+	"New York"	"36"	"Female"	"F"	"2018"	"2018"	270	10053779	2.7
+	"New York"	"36"	"Female"	"F"	"2019"	"2019"	267	10005715	2.7
+	"New York"	"36"	"Female"	"F"	"2020 "	"2020"	270	9946279	2.7
+	"New York"	"36"	"Male"	"M"	"2013"	"2013"	537	9536193	5.6
+	"New York"	"36"	"Male"	"M"	"2014"	"2014"	659	9581261	6.9
+	"New York"	"36"	"Male"	"M"	"2015"	"2015"	848	9611513	8.8
+	"New York"	"36"	"Male"	"M"	"2016"	"2016"	1033	9587365	10.8
+	"New York"	"36"	"Male"	"M"	"2017"	"2017"	1077	9637462	11.2
+	"New York"	"36"	"Male"	"M"	"2018"	"2018"	973	9488430	10.3
+	"New York"	"36"	"Male"	"M"	"2019"	"2019"	878	9447846	9.3
+	"New York"	"36"	"Male"	"M"	"2020 "	"2020"	1005	9390497	10.7
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	49	5047448	1.0
+	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	59	5099371	1.2
+	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	99	5150777	1.9
+	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	160	5213836	3.1
+	"North Carolina"	"37"	"Female"	"F"	"2017"	"2017"	157	5271981	3.0
+	"North Carolina"	"37"	"Female"	"F"	"2018"	"2018"	161	5332759	3.0
+	"North Carolina"	"37"	"Female"	"F"	"2019"	"2019"	166	5387820	3.1
+	"North Carolina"	"37"	"Female"	"F"	"2020 "	"2020"	155	5448241	2.8
+	"North Carolina"	"37"	"Male"	"M"	"2013"	"2013"	140	4800612	2.9
+	"North Carolina"	"37"	"Male"	"M"	"2014"	"2014"	207	4844593	4.3
+	"North Carolina"	"37"	"Male"	"M"	"2015"	"2015"	294	4892025	6.0
+	"North Carolina"	"37"	"Male"	"M"	"2016"	"2016"	384	4932952	7.8
+	"North Carolina"	"37"	"Male"	"M"	"2017"	"2017"	380	5001438	7.6
+	"North Carolina"	"37"	"Male"	"M"	"2018"	"2018"	458	5050861	9.1
+	"North Carolina"	"37"	"Male"	"M"	"2019"	"2019"	420	5100264	8.2
+	"North Carolina"	"37"	"Male"	"M"	"2020 "	"2020"	379	5152582	7.4
+	"North Dakota"	"38"	"Female"	"F"	"2013"	"2013"	Suppressed	353392	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2014"	"2014"	Suppressed	360463	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2015"	"2015"	Suppressed	368074	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2016"	"2016"	Suppressed	368978	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2017"	"2017"	Suppressed	368094	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2018"	"2018"	Suppressed	370727	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2019"	"2019"	Suppressed	372030	Suppressed
+	"North Dakota"	"38"	"Female"	"F"	"2020 "	"2020"	Suppressed	373494	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2013"	"2013"	Suppressed	370001	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2014"	"2014"	Suppressed	379019	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2015"	"2015"	Suppressed	388853	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2016"	"2016"	Suppressed	388974	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2017"	"2017"	Suppressed	387299	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2018"	"2018"	Suppressed	389350	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2019"	"2019"	Suppressed	390032	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"2020 "	"2020"	Suppressed	391815	Suppressed
+	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"	233	5911149	3.9
+	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"	325	5919391	5.5
+	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	409	5926893	6.9
+	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	424	5922679	7.2
+	"Ohio"	"39"	"Female"	"F"	"2017"	"2017"	297	5945509	5.0
+	"Ohio"	"39"	"Female"	"F"	"2018"	"2018"	209	5958724	3.5
+	"Ohio"	"39"	"Female"	"F"	"2019"	"2019"	155	5958538	2.6
+	"Ohio"	"39"	"Female"	"F"	"2020 "	"2020"	95	5960556	1.6
+	"Ohio"	"39"	"Male"	"M"	"2013"	"2013"	765	5659659	13.5
+	"Ohio"	"39"	"Male"	"M"	"2014"	"2014"	883	5674772	15.6
+	"Ohio"	"39"	"Male"	"M"	"2015"	"2015"	1035	5686530	18.2
+	"Ohio"	"39"	"Male"	"M"	"2016"	"2016"	1054	5691694	18.5
+	"Ohio"	"39"	"Male"	"M"	"2017"	"2017"	703	5713100	12.3
+	"Ohio"	"39"	"Male"	"M"	"2018"	"2018"	512	5730718	8.9
+	"Ohio"	"39"	"Male"	"M"	"2019"	"2019"	372	5730562	6.5
+	"Ohio"	"39"	"Male"	"M"	"2020 "	"2020"	215	5732661	3.8
+	"Oklahoma"	"40"	"Female"	"F"	"2013"	"2013"	Suppressed	1943276	Suppressed
+	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"	Suppressed	1957903	Suppressed
+	"Oklahoma"	"40"	"Female"	"F"	"2015"	"2015"	Suppressed	1974214	Suppressed
+	"Oklahoma"	"40"	"Female"	"F"	"2016"	"2016"	10	1979658	Unreliable
+	"Oklahoma"	"40"	"Female"	"F"	"2017"	"2017"	11	1983302	Unreliable
+	"Oklahoma"	"40"	"Female"	"F"	"2018"	"2018"	14	1990033	Unreliable
+	"Oklahoma"	"40"	"Female"	"F"	"2019"	"2019"	20	1996313	1.0
+	"Oklahoma"	"40"	"Female"	"F"	"2020 "	"2020"	24	2009602	1.2
+	"Oklahoma"	"40"	"Male"	"M"	"2013"	"2013"	18	1907292	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"2014"	"2014"	21	1920148	1.1
+	"Oklahoma"	"40"	"Male"	"M"	"2015"	"2015"	29	1937124	1.5
+	"Oklahoma"	"40"	"Male"	"M"	"2016"	"2016"	43	1943903	2.2
+	"Oklahoma"	"40"	"Male"	"M"	"2017"	"2017"	50	1947562	2.6
+	"Oklahoma"	"40"	"Male"	"M"	"2018"	"2018"	70	1953046	3.6
+	"Oklahoma"	"40"	"Male"	"M"	"2019"	"2019"	55	1960658	2.8
+	"Oklahoma"	"40"	"Male"	"M"	"2020 "	"2020"	62	1971181	3.1
+	"Oregon"	"41"	"Female"	"F"	"2013"	"2013"	26	1985655	1.3
+	"Oregon"	"41"	"Female"	"F"	"2014"	"2014"	37	2006139	1.8
+	"Oregon"	"41"	"Female"	"F"	"2015"	"2015"	20	2035807	1.0
+	"Oregon"	"41"	"Female"	"F"	"2016"	"2016"	24	2066455	1.2
+	"Oregon"	"41"	"Female"	"F"	"2017"	"2017"	35	2089787	1.7
+	"Oregon"	"41"	"Female"	"F"	"2018"	"2018"	35	2113219	1.7
+	"Oregon"	"41"	"Female"	"F"	"2019"	"2019"	36	2127010	1.7
+	"Oregon"	"41"	"Female"	"F"	"2020 "	"2020"	50	2139046	2.3
+	"Oregon"	"41"	"Male"	"M"	"2013"	"2013"	78	1944410	4.0
+	"Oregon"	"41"	"Male"	"M"	"2014"	"2014"	87	1964100	4.4
+	"Oregon"	"41"	"Male"	"M"	"2015"	"2015"	82	1993170	4.1
+	"Oregon"	"41"	"Male"	"M"	"2016"	"2016"	90	2027010	4.4
+	"Oregon"	"41"	"Male"	"M"	"2017"	"2017"	89	2052989	4.3
+	"Oregon"	"41"	"Male"	"M"	"2018"	"2018"	119	2077494	5.7
+	"Oregon"	"41"	"Male"	"M"	"2019"	"2019"	113	2090727	5.4
+	"Oregon"	"41"	"Male"	"M"	"2020 "	"2020"	146	2102461	6.9
+	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	86	6531461	1.3
+	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	129	6533392	2.0
+	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	175	6538129	2.7
+	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	204	6523033	3.1
+	"Pennsylvania"	"42"	"Female"	"F"	"2017"	"2017"	219	6534208	3.4
+	"Pennsylvania"	"42"	"Female"	"F"	"2018"	"2018"	211	6532400	3.2
+	"Pennsylvania"	"42"	"Female"	"F"	"2019"	"2019"	205	6527628	3.1
+	"Pennsylvania"	"42"	"Female"	"F"	"2020 "	"2020"	197	6516212	3.0
+	"Pennsylvania"	"42"	"Male"	"M"	"2013"	"2013"	323	6242340	5.2
+	"Pennsylvania"	"42"	"Male"	"M"	"2014"	"2014"	374	6253817	6.0
+	"Pennsylvania"	"42"	"Male"	"M"	"2015"	"2015"	488	6264374	7.8
+	"Pennsylvania"	"42"	"Male"	"M"	"2016"	"2016"	722	6261194	11.5
+	"Pennsylvania"	"42"	"Male"	"M"	"2017"	"2017"	600	6271329	9.6
+	"Pennsylvania"	"42"	"Male"	"M"	"2018"	"2018"	634	6274660	10.1
+	"Pennsylvania"	"42"	"Male"	"M"	"2019"	"2019"	611	6274361	9.7
+	"Pennsylvania"	"42"	"Male"	"M"	"2020 "	"2020"	603	6267042	9.6
+	"Rhode Island"	"44"	"Female"	"F"	"2013"	"2013"	11	542084	Unreliable
+	"Rhode Island"	"44"	"Female"	"F"	"2014"	"2014"	12	543810	Unreliable
+	"Rhode Island"	"44"	"Female"	"F"	"2015"	"2015"	Suppressed	544349	Suppressed
+	"Rhode Island"	"44"	"Female"	"F"	"2016"	"2016"	Suppressed	543345	Suppressed
+	"Rhode Island"	"44"	"Female"	"F"	"2017"	"2017"	Suppressed	544648	Suppressed
+	"Rhode Island"	"44"	"Female"	"F"	"2018"	"2018"	Suppressed	542983	Suppressed
+	"Rhode Island"	"44"	"Female"	"F"	"2019"	"2019"	Suppressed	543686	Suppressed
+	"Rhode Island"	"44"	"Female"	"F"	"2020 "	"2020"	Suppressed	542433	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"2013"	"2013"	54	509427	10.6
+	"Rhode Island"	"44"	"Male"	"M"	"2014"	"2014"	54	511363	10.6
+	"Rhode Island"	"44"	"Male"	"M"	"2015"	"2015"	40	511949	7.8
+	"Rhode Island"	"44"	"Male"	"M"	"2016"	"2016"	20	513081	3.9
+	"Rhode Island"	"44"	"Male"	"M"	"2017"	"2017"	11	514991	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"2018"	"2018"	20	514332	3.9
+	"Rhode Island"	"44"	"Male"	"M"	"2019"	"2019"	14	515675	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"2020 "	"2020"	Suppressed	514692	Suppressed
+	"South Carolina"	"45"	"Female"	"F"	"2013"	"2013"	Suppressed	2451720	Suppressed
+	"South Carolina"	"45"	"Female"	"F"	"2014"	"2014"	Suppressed	2483088	Suppressed
+	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"	21	2517178	0.8
+	"South Carolina"	"45"	"Female"	"F"	"2016"	"2016"	28	2553185	1.1
+	"South Carolina"	"45"	"Female"	"F"	"2017"	"2017"	44	2586682	1.7
+	"South Carolina"	"45"	"Female"	"F"	"2018"	"2018"	49	2620801	1.9
+	"South Carolina"	"45"	"Female"	"F"	"2019"	"2019"	51	2655575	1.9
+	"South Carolina"	"45"	"Female"	"F"	"2020 "	"2020"	75	2694628	2.8
+	"South Carolina"	"45"	"Male"	"M"	"2013"	"2013"	23	2323119	1.0
+	"South Carolina"	"45"	"Male"	"M"	"2014"	"2014"	56	2349394	2.4
+	"South Carolina"	"45"	"Male"	"M"	"2015"	"2015"	79	2378968	3.3
+	"South Carolina"	"45"	"Male"	"M"	"2016"	"2016"	87	2407934	3.6
+	"South Carolina"	"45"	"Male"	"M"	"2017"	"2017"	109	2437687	4.5
+	"South Carolina"	"45"	"Male"	"M"	"2018"	"2018"	134	2463326	5.4
+	"South Carolina"	"45"	"Male"	"M"	"2019"	"2019"	146	2493139	5.9
+	"South Carolina"	"45"	"Male"	"M"	"2020 "	"2020"	177	2523412	7.0
+	"South Dakota"	"46"	"Female"	"F"	"2013"	"2013"	Suppressed	420499	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2014"	"2014"	Suppressed	423862	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2015"	"2015"	Suppressed	426493	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2016"	"2016"	Suppressed	429182	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2017"	"2017"	Suppressed	430706	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2018"	"2018"	Suppressed	436704	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2019"	"2019"	Suppressed	437902	Suppressed
+	"South Dakota"	"46"	"Female"	"F"	"2020 "	"2020"	Suppressed	442058	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2013"	"2013"	Suppressed	424378	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2014"	"2014"	Suppressed	429313	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2015"	"2015"	Suppressed	431976	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2016"	"2016"	Suppressed	436272	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2017"	"2017"	Suppressed	438960	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2018"	"2018"	Suppressed	445531	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2019"	"2019"	Suppressed	446757	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"2020 "	"2020"	Suppressed	450659	Suppressed
+	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"	10	3328884	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	40	3357172	1.2
+	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"	57	3382838	1.7
+	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	78	3408679	2.3
+	"Tennessee"	"47"	"Female"	"F"	"2017"	"2017"	95	3440018	2.8
+	"Tennessee"	"47"	"Female"	"F"	"2018"	"2018"	111	3467086	3.2
+	"Tennessee"	"47"	"Female"	"F"	"2019"	"2019"	115	3496935	3.3
+	"Tennessee"	"47"	"Female"	"F"	"2020 "	"2020"	111	3528814	3.1
+	"Tennessee"	"47"	"Male"	"M"	"2013"	"2013"	58	3167094	1.8
+	"Tennessee"	"47"	"Male"	"M"	"2014"	"2014"	108	3192180	3.4
+	"Tennessee"	"47"	"Male"	"M"	"2015"	"2015"	148	3217461	4.6
+	"Tennessee"	"47"	"Male"	"M"	"2016"	"2016"	182	3242515	5.6
+	"Tennessee"	"47"	"Male"	"M"	"2017"	"2017"	216	3275966	6.6
+	"Tennessee"	"47"	"Male"	"M"	"2018"	"2018"	258	3302924	7.8
+	"Tennessee"	"47"	"Male"	"M"	"2019"	"2019"	265	3332239	8.0
+	"Tennessee"	"47"	"Male"	"M"	"2020 "	"2020"	221	3358020	6.6
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	76	13301191	0.6
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	87	13574572	0.6
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	106	13831324	0.8
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	117	14031164	0.8
+	"Texas"	"48"	"Female"	"F"	"2017"	"2017"	119	14242803	0.8
+	"Texas"	"48"	"Female"	"F"	"2018"	"2018"	137	14441739	0.9
+	"Texas"	"48"	"Female"	"F"	"2019"	"2019"	164	14593179	1.1
+	"Texas"	"48"	"Female"	"F"	"2020 "	"2020"	182	14779708	1.2
+	"Texas"	"48"	"Male"	"M"	"2013"	"2013"	293	13147002	2.2
+	"Texas"	"48"	"Male"	"M"	"2014"	"2014"	338	13382386	2.5
+	"Texas"	"48"	"Male"	"M"	"2015"	"2015"	417	13637790	3.1
+	"Texas"	"48"	"Male"	"M"	"2016"	"2016"	413	13831432	3.0
+	"Texas"	"48"	"Male"	"M"	"2017"	"2017"	450	14061793	3.2
+	"Texas"	"48"	"Male"	"M"	"2018"	"2018"	531	14260106	3.7
+	"Texas"	"48"	"Male"	"M"	"2019"	"2019"	566	14402702	3.9
+	"Texas"	"48"	"Male"	"M"	"2020 "	"2020"	599	14581051	4.1
+	"Utah"	"49"	"Female"	"F"	"2013"	"2013"	24	1441891	1.7
+	"Utah"	"49"	"Female"	"F"	"2014"	"2014"	16	1463152	Unreliable
+	"Utah"	"49"	"Female"	"F"	"2015"	"2015"	27	1488819	1.8
+	"Utah"	"49"	"Female"	"F"	"2016"	"2016"	34	1515323	2.2
+	"Utah"	"49"	"Female"	"F"	"2017"	"2017"	37	1540145	2.4
+	"Utah"	"49"	"Female"	"F"	"2018"	"2018"	35	1568962	2.2
+	"Utah"	"49"	"Female"	"F"	"2019"	"2019"	43	1591041	2.7
+	"Utah"	"49"	"Female"	"F"	"2020 "	"2020"	34	1612139	2.1
+	"Utah"	"49"	"Male"	"M"	"2013"	"2013"	98	1458981	6.7
+	"Utah"	"49"	"Male"	"M"	"2014"	"2014"	94	1479750	6.4
+	"Utah"	"49"	"Male"	"M"	"2015"	"2015"	100	1507100	6.6
+	"Utah"	"49"	"Male"	"M"	"2016"	"2016"	132	1535894	8.6
+	"Utah"	"49"	"Male"	"M"	"2017"	"2017"	110	1561688	7.0
+	"Utah"	"49"	"Male"	"M"	"2018"	"2018"	121	1592143	7.6
+	"Utah"	"49"	"Male"	"M"	"2019"	"2019"	96	1614917	5.9
+	"Utah"	"49"	"Male"	"M"	"2020 "	"2020"	106	1637740	6.5
+	"Vermont"	"50"	"Female"	"F"	"2013"	"2013"	Suppressed	317442	Suppressed
+	"Vermont"	"50"	"Female"	"F"	"2014"	"2014"	Suppressed	317713	Suppressed
+	"Vermont"	"50"	"Female"	"F"	"2015"	"2015"	Suppressed	317516	Suppressed
+	"Vermont"	"50"	"Female"	"F"	"2016"	"2016"	10	316128	Unreliable
+	"Vermont"	"50"	"Female"	"F"	"2017"	"2017"	14	315401	Unreliable
+	"Vermont"	"50"	"Female"	"F"	"2018"	"2018"	21	317047	6.6
+	"Vermont"	"50"	"Female"	"F"	"2019"	"2019"	13	315673	Unreliable
+	"Vermont"	"50"	"Female"	"F"	"2020 "	"2020"	Suppressed	315355	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"2013"	"2013"	17	309188	Unreliable
+	"Vermont"	"50"	"Male"	"M"	"2014"	"2014"	24	308849	7.8
+	"Vermont"	"50"	"Male"	"M"	"2015"	"2015"	28	308526	9.1
+	"Vermont"	"50"	"Male"	"M"	"2016"	"2016"	35	308466	11.3
+	"Vermont"	"50"	"Male"	"M"	"2017"	"2017"	27	308256	8.8
+	"Vermont"	"50"	"Male"	"M"	"2018"	"2018"	47	309252	15.2
+	"Vermont"	"50"	"Male"	"M"	"2019"	"2019"	27	308316	8.8
+	"Vermont"	"50"	"Male"	"M"	"2020 "	"2020"	32	307992	10.4
+	"Virginia"	"51"	"Female"	"F"	"2013"	"2013"	42	4198203	1.0
+	"Virginia"	"51"	"Female"	"F"	"2014"	"2014"	54	4231045	1.3
+	"Virginia"	"51"	"Female"	"F"	"2015"	"2015"	79	4258228	1.9
+	"Virginia"	"51"	"Female"	"F"	"2016"	"2016"	122	4274994	2.9
+	"Virginia"	"51"	"Female"	"F"	"2017"	"2017"	154	4303293	3.6
+	"Virginia"	"51"	"Female"	"F"	"2018"	"2018"	120	4327037	2.8
+	"Virginia"	"51"	"Female"	"F"	"2019"	"2019"	152	4335262	3.5
+	"Virginia"	"51"	"Female"	"F"	"2020 "	"2020"	135	4363032	3.1
+	"Virginia"	"51"	"Male"	"M"	"2013"	"2013"	164	4062202	4.0
+	"Virginia"	"51"	"Male"	"M"	"2014"	"2014"	199	4095244	4.9
+	"Virginia"	"51"	"Male"	"M"	"2015"	"2015"	274	4124765	6.6
+	"Virginia"	"51"	"Male"	"M"	"2016"	"2016"	328	4136814	7.9
+	"Virginia"	"51"	"Male"	"M"	"2017"	"2017"	402	4166727	9.6
+	"Virginia"	"51"	"Male"	"M"	"2018"	"2018"	412	4190648	9.8
+	"Virginia"	"51"	"Male"	"M"	"2019"	"2019"	380	4200257	9.0
+	"Virginia"	"51"	"Male"	"M"	"2020 "	"2020"	367	4227531	8.7
+	"Washington"	"53"	"Female"	"F"	"2013"	"2013"	49	3488736	1.4
+	"Washington"	"53"	"Female"	"F"	"2014"	"2014"	77	3531595	2.2
+	"Washington"	"53"	"Female"	"F"	"2015"	"2015"	72	3585353	2.0
+	"Washington"	"53"	"Female"	"F"	"2016"	"2016"	82	3646600	2.2
+	"Washington"	"53"	"Female"	"F"	"2017"	"2017"	71	3702270	1.9
+	"Washington"	"53"	"Female"	"F"	"2018"	"2018"	84	3765680	2.2
+	"Washington"	"53"	"Female"	"F"	"2019"	"2019"	94	3802910	2.5
+	"Washington"	"53"	"Female"	"F"	"2020 "	"2020"	96	3840014	2.5
+	"Washington"	"53"	"Male"	"M"	"2013"	"2013"	156	3482670	4.5
+	"Washington"	"53"	"Male"	"M"	"2014"	"2014"	212	3529935	6.0
+	"Washington"	"53"	"Male"	"M"	"2015"	"2015"	231	3584998	6.4
+	"Washington"	"53"	"Male"	"M"	"2016"	"2016"	201	3641400	5.5
+	"Washington"	"53"	"Male"	"M"	"2017"	"2017"	235	3703473	6.3
+	"Washington"	"53"	"Male"	"M"	"2018"	"2018"	244	3769911	6.5
+	"Washington"	"53"	"Male"	"M"	"2019"	"2019"	252	3811983	6.6
+	"Washington"	"53"	"Male"	"M"	"2020 "	"2020"	287	3853598	7.4
+	"West Virginia"	"54"	"Female"	"F"	"2013"	"2013"	35	938728	3.7
+	"West Virginia"	"54"	"Female"	"F"	"2014"	"2014"	32	936411	3.4
+	"West Virginia"	"54"	"Female"	"F"	"2015"	"2015"	69	933068	7.4
+	"West Virginia"	"54"	"Female"	"F"	"2016"	"2016"	66	925159	7.1
+	"West Virginia"	"54"	"Female"	"F"	"2017"	"2017"	74	917237	8.1
+	"West Virginia"	"54"	"Female"	"F"	"2018"	"2018"	70	911492	7.7
+	"West Virginia"	"54"	"Female"	"F"	"2019"	"2019"	46	904377	5.1
+	"West Virginia"	"54"	"Female"	"F"	"2020 "	"2020"	39	900511	4.3
+	"West Virginia"	"54"	"Male"	"M"	"2013"	"2013"	109	915576	11.9
+	"West Virginia"	"54"	"Male"	"M"	"2014"	"2014"	131	913915	14.3
+	"West Virginia"	"54"	"Male"	"M"	"2015"	"2015"	125	911060	13.7
+	"West Virginia"	"54"	"Male"	"M"	"2016"	"2016"	169	905943	18.7
+	"West Virginia"	"54"	"Male"	"M"	"2017"	"2017"	170	898620	18.9
+	"West Virginia"	"54"	"Male"	"M"	"2018"	"2018"	125	894340	14.0
+	"West Virginia"	"54"	"Male"	"M"	"2019"	"2019"	96	887770	10.8
+	"West Virginia"	"54"	"Male"	"M"	"2020 "	"2020"	102	884276	11.5
+	"Wisconsin"	"55"	"Female"	"F"	"2013"	"2013"	54	2890553	1.9
+	"Wisconsin"	"55"	"Female"	"F"	"2014"	"2014"	67	2898057	2.3
+	"Wisconsin"	"55"	"Female"	"F"	"2015"	"2015"	68	2903737	2.3
+	"Wisconsin"	"55"	"Female"	"F"	"2016"	"2016"	109	2905282	3.8
+	"Wisconsin"	"55"	"Female"	"F"	"2017"	"2017"	113	2912745	3.9
+	"Wisconsin"	"55"	"Female"	"F"	"2018"	"2018"	80	2921295	2.7
+	"Wisconsin"	"55"	"Female"	"F"	"2019"	"2019"	85	2925225	2.9
+	"Wisconsin"	"55"	"Female"	"F"	"2020 "	"2020"	68	2928939	2.3
+	"Wisconsin"	"55"	"Male"	"M"	"2013"	"2013"	178	2852160	6.2
+	"Wisconsin"	"55"	"Male"	"M"	"2014"	"2014"	203	2859507	7.1
+	"Wisconsin"	"55"	"Male"	"M"	"2015"	"2015"	219	2867600	7.6
+	"Wisconsin"	"55"	"Male"	"M"	"2016"	"2016"	280	2873426	9.7
+	"Wisconsin"	"55"	"Male"	"M"	"2017"	"2017"	301	2882738	10.4
+	"Wisconsin"	"55"	"Male"	"M"	"2018"	"2018"	247	2892273	8.5
+	"Wisconsin"	"55"	"Male"	"M"	"2019"	"2019"	207	2897209	7.1
+	"Wisconsin"	"55"	"Male"	"M"	"2020 "	"2020"	200	2903716	6.9
+	"Wyoming"	"56"	"Female"	"F"	"2013"	"2013"	Suppressed	285380	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2014"	"2014"	Suppressed	286111	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2015"	"2015"	Suppressed	287206	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2016"	"2016"	Suppressed	286559	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2017"	"2017"	Suppressed	283877	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2018"	"2018"	Suppressed	283203	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2019"	"2019"	Suppressed	284029	Suppressed
+	"Wyoming"	"56"	"Female"	"F"	"2020 "	"2020"	Suppressed	285437	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2013"	"2013"	Suppressed	297278	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2014"	"2014"	Suppressed	298042	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2015"	"2015"	Suppressed	298901	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2016"	"2016"	Suppressed	298942	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2017"	"2017"	Suppressed	295438	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2018"	"2018"	Suppressed	294534	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2019"	"2019"	Suppressed	294730	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"2020 "	"2020"	10	296891	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.1 (Heroin)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Gender; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 4, 2022 3:26:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on May 4, 2022 3:26:32 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

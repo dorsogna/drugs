@@ -1,0 +1,127 @@
+"Notes"	"Census Region"	"Census Region Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2013"	"2013"	683	28699060	2.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2014"	"2014"	710	28802978	2.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2015"	"2015"	740	28858635	2.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2016"	"2016"	964	28806949	3.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2017"	"2017"	856	28940275	3.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2018"	"2018"	853	28750649	3.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2019"	"2019"	773	28679128	2.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"2020 "	"2020"	916	28606350	3.2
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"			6495	230144024	2.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2013"	"2013"	1164	27244013	4.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2014"	"2014"	1141	27349355	4.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2015"	"2015"	1355	27425256	4.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2016"	"2016"	1694	27402561	6.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2017"	"2017"	1622	27530306	5.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2018"	"2018"	1517	27360430	5.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2019"	"2019"	1389	27303675	5.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"2020 "	"2020"	1634	27243519	6.0
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"			11516	218859115	5.3
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					18011	449003139	4.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2013"	"2013"	890	34257226	2.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2014"	"2014"	1022	34350178	3.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2015"	"2015"	1032	34412200	3.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2016"	"2016"	1188	34407750	3.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2017"	"2017"	1383	34520027	4.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2018"	"2018"	1047	34580567	3.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2019"	"2019"	952	34587304	2.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"2020 "	"2020"	1008	34581450	2.9
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"			8522	275696702	3.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2013"	"2013"	1090	33290664	3.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2014"	"2014"	1183	33394930	3.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2015"	"2015"	1271	33495203	3.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2016"	"2016"	1691	33533679	5.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2017"	"2017"	1792	33659324	5.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2018"	"2018"	1411	33728177	4.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2019"	"2019"	1353	33741700	4.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"2020 "	"2020"	1604	33735294	4.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"			11395	268578971	4.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"					19917	544275673	3.7
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2013"	"2013"	2049	60306735	3.4
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2014"	"2014"	2289	61053158	3.7
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2015"	"2015"	2464	61782945	4.0
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2016"	"2016"	2672	62380925	4.3
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2017"	"2017"	2601	63042096	4.1
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2018"	"2018"	2225	63613086	3.5
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2019"	"2019"	2032	64050066	3.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"2020 "	"2020"	2252	64626584	3.5
+"Total"	"Census Region 3: South"	"CENS-R3"	"Female"	"F"			18584	500855595	3.7
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2013"	"2013"	2556	58076718	4.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2014"	"2014"	2812	58718776	4.8
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2015"	"2015"	2910	59399902	4.9
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2016"	"2016"	3464	59938649	5.8
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2017"	"2017"	3431	60616528	5.7
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2018"	"2018"	2914	61140862	4.8
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2019"	"2019"	2866	61530382	4.7
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"2020 "	"2020"	3329	62036170	5.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Male"	"M"			24282	481457987	5.0
+"Total"	"Census Region 3: South"	"CENS-R3"					42866	982313582	4.4
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2013"	"2013"	1294	37214216	3.5
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2014"	"2014"	1406	37714255	3.7
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2015"	"2015"	1374	38135743	3.6
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2016"	"2016"	1246	38452966	3.2
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2017"	"2017"	1257	38808661	3.2
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2018"	"2018"	1104	39094453	2.8
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2019"	"2019"	1085	39265701	2.8
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"2020 "	"2020"	1111	39413537	2.8
+"Total"	"Census Region 4: West"	"CENS-R4"	"Female"	"F"			9877	308099532	3.2
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2013"	"2013"	1620	37040207	4.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2014"	"2014"	1596	37473426	4.3
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2015"	"2015"	1582	37908936	4.2
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2016"	"2016"	1568	38204034	4.1
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2017"	"2017"	1553	38601961	4.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2018"	"2018"	1481	38899210	3.8
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2019"	"2019"	1436	39081567	3.7
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"2020 "	"2020"	1618	39241219	4.1
+"Total"	"Census Region 4: West"	"CENS-R4"	"Male"	"M"			12454	306450560	4.1
+"Total"	"Census Region 4: West"	"CENS-R4"					22331	614550092	3.6
+"Total"							103125	2590142486	4.0
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.2 (Other opioids)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Census Region; Gender; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 19, 2022 9:37:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on May 19, 2022 9:37:32 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

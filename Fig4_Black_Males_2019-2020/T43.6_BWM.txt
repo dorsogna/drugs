@@ -1,0 +1,1696 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	18548	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	18558	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	18765	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	18782	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	18864	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	19028	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	19240	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	19189	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	34472	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	35639	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	36873	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	37552	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	38927	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	39928	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	40106	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	41314	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	610554	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	614609	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	618441	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	620706	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	622795	Suppressed
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	15	623614	Unreliable
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	13	624145	Unreliable
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	33	627341	5.3
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	15	1681773	Unreliable
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	17	1681161	Unreliable
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	21	1679105	1.3
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	40	1678546	2.4
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	79	1679250	4.7
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	86	1681545	5.1
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	139	1686026	8.2
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	170	1689122	10.1
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	61950	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	62550	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	63015	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	64458	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	64660	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	64730	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	11	64906	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	65006	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	27425	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	28617	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	29572	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	30110	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	30606	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	31139	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	30658	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	32026	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	20273	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	20816	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	20982	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	20141	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	20090	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	20348	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	19870	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	19967	Suppressed
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	11	275920	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	10	275313	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	12	275456	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	25	273423	9.1
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	28	271436	10.3
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	25	268356	9.3
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	35	265984	13.2
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	28	264538	10.6
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	11	185839	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	189222	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	10	191838	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	14	196044	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	19	197445	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	34	200826	16.9
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	21	204009	10.3
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	55	206918	26.6
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	120063	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	124684	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	130550	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	134059	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	140034	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	148083	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	150973	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	158936	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	180469	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	187382	Suppressed
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	10	194194	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	18	199163	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	34	204754	16.6
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	27	212747	12.7
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	44	220236	20.0
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	68	231276	29.4
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	114	2808748	4.1
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	155	2842559	5.5
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	222	2874908	7.7
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	287	2913629	9.9
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	360	2946068	12.2
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	366	3003683	12.2
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	462	3042079	15.2
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	627	3088796	20.3
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	15694	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	15898	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	16178	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	16181	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	16530	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	16864	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	17126	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	17595	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	26227	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	26979	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	28860	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	29190	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	30903	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	32043	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	32872	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	35055	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	226689	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	228291	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	230318	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	231536	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	232970	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	233571	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	233986	Suppressed
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	14	235415	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	28	1184981	2.4
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	40	1186148	3.4
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	28	1187500	2.4
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	45	1190966	3.8
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	50	1195661	4.2
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	70	1197665	5.8
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	76	1197632	6.3
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	136	1198791	11.3
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	13	386212	Unreliable
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	10	388066	Unreliable
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	23	390250	5.9
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	25	390325	6.4
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	25	391973	6.4
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	25	392414	6.4
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	40	391583	10.2
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	59	401004	14.7
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	29	2816510	1.0
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	29	2908740	1.0
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	62	2986427	2.1
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	49	3029885	1.6
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	76	3118068	2.4
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	78	3157535	2.5
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	96	3185423	3.0
+	"California"	"06"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	167	3260317	5.1
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	56	1373480	4.1
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	76	1389925	5.5
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	99	1401954	7.1
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	102	1402279	7.3
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	151	1410736	10.7
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	189	1417457	13.3
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	251	1420744	17.7
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	393	1432320	27.4
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	640	14487994	4.4
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	753	14582173	5.2
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	918	14664437	6.3
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	1001	14670872	6.8
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	1184	14726776	8.0
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	1520	14696171	10.3
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	1759	14647104	12.0
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	2743	14483848	18.9
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	50329	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	51116	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	51941	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	52931	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	53548	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	54824	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	55919	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	57801	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	88050	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	92616	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	97314	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	99847	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	103844	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	109166	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	112208	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	115656	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	140220	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	145606	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	150257	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	152904	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	12	156540	Unreliable
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	160870	Suppressed
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	23	164144	14.0
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	32	167964	19.1
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	67	2367847	2.8
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	69	2401821	2.9
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	94	2444251	3.8
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	133	2480136	5.4
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	188	2508401	7.5
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	217	2543008	8.5
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	215	2569077	8.4
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	342	2584466	13.2
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	11072	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	11102	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	11579	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	11582	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	11696	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	11923	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	12291	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	13576	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	80689	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	83865	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	86195	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	87325	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	90441	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	90739	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	92083	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	93431	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	207822	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	211420	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	213769	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	215547	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	218326	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	219897	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	222173	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	228058	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	1454568	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	1448162	Suppressed
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	11	1440204	Unreliable
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	18	1431161	Unreliable
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	27	1431337	1.9
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	46	1420836	3.2
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	53	1412870	3.8
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	56	1399855	4.0
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	3402	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	3428	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	3395	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	3404	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	3453	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	3599	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	3631	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	3844	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	17412	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	18217	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	19284	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	19907	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	20938	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	21066	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	21323	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	22164	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	101067	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	102858	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	104572	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	106236	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	108571	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	110099	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	111879	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	114838	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	326066	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	328186	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	330558	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	331123	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	Suppressed	332552	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	Suppressed	333163	Suppressed
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	20	333960	6.0
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	26	335894	7.7
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	2166	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	2247	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	2275	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	2645	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	2647	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	2759	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	2606	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	2681	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	12036	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	12675	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	13687	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	13796	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	14378	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	14901	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	15131	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	15719	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	149241	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	151031	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	151790	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	152043	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	152830	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	152939	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	152076	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	152057	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	142807	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	146647	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	150849	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	154746	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	Suppressed	159344	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	Suppressed	162708	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	Suppressed	164898	Suppressed
+	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	Suppressed	167475	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	56281	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	57364	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	58545	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	59465	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	60478	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	61899	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	63029	Suppressed
+	"Florida"	"12"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	65652	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	280352	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	293734	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	305656	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	312179	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	325789	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	335456	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	338159	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	349466	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	1624625	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	1662801	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	1699081	Suppressed
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	21	1734669	1.2
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	20	1774456	1.1
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	33	1803842	1.8
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	42	1821276	2.3
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	83	1854522	4.5
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	55	7601389	0.7
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	54	7709387	0.7
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	89	7839257	1.1
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	178	7963838	2.2
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	266	8096096	3.3
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	346	8210580	4.2
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	516	8274592	6.2
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	841	8350540	10.1
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	29745	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	29879	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	30082	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	30501	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	31131	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	31845	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	32316	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	33280	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	193246	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	204089	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	215752	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	221828	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	231819	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	238850	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	243958	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	254648	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	1505843	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	1529579	Suppressed
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	16	1556114	Unreliable
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	12	1585076	Unreliable
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	22	1614138	1.4
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	32	1638011	2.0
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	51	1661066	3.1
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	56	1686060	3.3
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	78	3152527	2.5
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	78	3163440	2.5
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	125	3177934	3.9
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	152	3183060	4.8
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	229	3198419	7.2
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	231	3206710	7.2
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	245	3223084	7.6
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	338	3227561	10.5
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	3934	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	4038	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	4091	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	3610	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	3532	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	3529	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	3452	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	3401	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	28	441496	6.3
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	30	444527	6.7
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	43	446910	9.6
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	53	455403	11.6
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	54	455632	11.9
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	79	453243	17.4
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	93	451852	20.6
+	"Hawaii"	"15"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	99	451149	21.9
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	26357	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	27895	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	29401	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	25519	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	25589	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	25501	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	25483	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	25398	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	237827	Suppressed
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	11	241639	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	22	244970	9.0
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	20	233083	8.6
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	28	231334	12.1
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	34	228729	14.9
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	34	227253	15.0
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	47	224418	20.9
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	16017	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	16429	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	16843	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	17268	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	17480	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	17847	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	18150	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	18722	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	13371	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	14203	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	14788	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	15085	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	15840	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	16453	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	16629	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	17752	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	10070	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	10504	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	11041	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	11320	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	11844	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	12318	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	12837	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	13312	Suppressed
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	14	767626	Unreliable
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	21	777360	2.7
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	26	786075	3.3
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	30	799859	3.8
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	28	815294	3.4
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	51	832459	6.1
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	59	848312	7.0
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	68	866338	7.8
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	45348	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	45126	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	45272	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	45487	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	45639	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	45594	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	45506	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	46463	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	337787	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	350487	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	361979	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	364050	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	374127	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	383597	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	383281	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	390947	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	923844	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	923994	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	924442	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	921472	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	919949	Suppressed
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	25	914607	2.7
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	21	912126	2.3
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	63	914160	6.9
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	18	5019504	Unreliable
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	25	5001279	0.5
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	32	4982802	0.6
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	70	4960782	1.4
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	112	4952763	2.3
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	155	4917103	3.2
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	154	4885645	3.2
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	242	4833736	5.0
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	15664	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	15787	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	16030	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	16136	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	16403	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	16590	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	16888	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	17469	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	67181	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	72224	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	77602	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	81583	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	86382	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	90851	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	96168	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	99134	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	322778	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	327679	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	331524	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	334707	Suppressed
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	10	339694	Unreliable
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	18	345396	Unreliable
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	29	351855	8.2
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	38	359308	10.6
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	16	2830645	Unreliable
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	25	2833754	0.9
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	34	2836709	1.2
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	74	2837136	2.6
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	190	2844616	6.7
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	226	2847465	7.9
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	300	2855449	10.5
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	474	2856048	16.6
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	8421	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	8675	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	8868	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	9039	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	9108	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	9347	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	9482	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	9905	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	34743	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	38129	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	40657	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	43572	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	45758	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	47789	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	47483	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	49625	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	63187	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	66003	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	68465	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	71759	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	74818	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	77995	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	79930	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	82951	Suppressed
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	32	1427050	2.2
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	27	1430238	1.9
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	39	1434036	2.7
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	55	1434749	3.8
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	61	1435049	4.3
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	70	1435676	4.9
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	93	1434180	6.5
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	107	1433214	7.5
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	21169	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	21432	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	21487	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	21398	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	21467	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	21588	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	21715	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	22029	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	42017	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	44271	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	46402	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	46931	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	49069	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	50127	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	51100	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	51543	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	105048	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	106633	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	108315	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	106532	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	107177	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	106964	Suppressed
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	107419	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	10	108865	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	24	1273714	1.9
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	20	1275019	1.6
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	45	1277429	3.5
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	50	1272898	3.9
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	44	1274243	3.5
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	48	1271727	3.8
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	104	1271463	8.2
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	114	1269103	9.0
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	6845	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	7039	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	7141	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	7299	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	7278	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	7405	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	7389	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	7518	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	31414	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	33201	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	35010	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	36377	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	38254	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	40018	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	39580	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	41757	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	189964	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	193560	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	195763	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	197122	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	12	199918	Unreliable
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	202059	Suppressed
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	16	203781	Unreliable
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	38	206629	18.4
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	26	1935173	1.3
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	38	1939358	2.0
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	59	1941180	3.0
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	123	1945755	6.3
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	201	1948868	10.3
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	217	1952029	11.1
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	290	1950279	14.9
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	489	1949441	25.1
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	19161	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	19361	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	19598	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	19783	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	20018	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	19966	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	19963	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	20176	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	43744	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	45280	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	46695	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	46426	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	48064	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	46602	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	46576	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	47896	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	727280	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	732258	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	735723	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	10	739430	Unreliable
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	740825	Suppressed
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	15	739485	Unreliable
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	25	738233	3.4
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	62	740012	8.4
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	26	1473748	1.8
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	29	1477040	2.0
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	24	1481793	1.6
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	40	1483731	2.7
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	56	1480539	3.8
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	78	1468706	5.3
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	115	1462278	7.9
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	213	1456076	14.6
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	5279	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	5347	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	5389	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	5452	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	5581	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	5687	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	5780	Suppressed
+	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	5683	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	7176	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	7695	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	8024	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	8289	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	8233	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	8360	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	8673	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	9008	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	12193	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	12878	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	13400	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	13537	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	14045	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	14372	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	14899	Suppressed
+	"Maine"	"23"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	15783	Suppressed
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	625572	Suppressed
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	12	625351	Unreliable
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	13	624444	Unreliable
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	21	625307	3.4
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	30	626661	4.8
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	27	626954	4.3
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	35	628760	5.6
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	82	630827	13.0
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	19724	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	20033	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	20293	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	20607	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	21220	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	21521	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	21783	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	22574	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	187856	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	195911	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	202199	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	204139	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	210177	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	209770	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	210209	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	215645	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	862042	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	872489	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	883085	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	892263	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	10	901194	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	904067	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	13	909329	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	27	918240	2.9
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	1805140	Suppressed
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	11	1807985	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	16	1805508	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	27	1797457	1.5
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	36	1801563	2.0
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	37	1793563	2.1
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	41	1787544	2.3
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	70	1776115	3.9
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	18924	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	19346	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	19755	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	19976	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	20296	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	20758	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	20852	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	21436	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	204540	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	215882	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	225711	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	230174	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	239711	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	249303	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	252008	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	260568	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	281101	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	291431	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	300866	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	308981	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	318445	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	326210	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	328629	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	335855	Suppressed
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	19	2740251	Unreliable
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	32	2744165	1.2
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	27	2749786	1.0
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	30	2746520	1.1
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	37	2751913	1.3
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	49	2754257	1.8
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	65	2744079	2.4
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	110	2729173	4.0
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	43502	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	43849	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	44150	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	44409	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	44972	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	45216	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	45446	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	45446	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	143465	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	151020	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	158235	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	163414	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	171060	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	181007	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	181193	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	182872	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	706705	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	708137	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	709512	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	709863	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	711462	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	16	712715	Unreliable
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	712871	Suppressed
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	31	713285	4.3
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	17	3965612	Unreliable
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	29	3965457	0.7
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	28	3966251	0.7
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	59	3967060	1.5
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	76	3976258	1.9
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	101	3983205	2.5
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	140	3979018	3.5
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	245	3966210	6.2
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	40774	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	41301	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	42009	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	42457	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	43341	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	10	43993	Unreliable
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	21	44484	47.2
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	28	44504	62.9
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	127015	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	133881	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	139670	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	142408	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	148683	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	151142	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	153147	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	158073	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	175422	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	182006	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	187280	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	196381	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	13	207827	Unreliable
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	216168	Suppressed
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	10	224350	Unreliable
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	26	232876	11.2
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	25	2350088	1.1
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	41	2354853	1.7
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	45	2360905	1.9
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	88	2366384	3.7
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	90	2376995	3.8
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	86	2383498	3.6
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	138	2387830	5.8
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	189	2383141	7.9
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	9124	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	9152	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	9246	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	9342	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	9449	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	9558	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	9737	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	9734	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	16200	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	16553	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	16971	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	17113	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	17555	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	17478	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	17940	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	17975	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	534563	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	536435	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	536393	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	537515	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	537265	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	538644	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	536764	Unreliable
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	29	536009	5.4
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	894700	Suppressed
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	15	892416	Unreliable
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	37	889240	4.2
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	36	884822	4.1
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	42	881609	4.8
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	61	882055	6.9
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	80	877851	9.1
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	128	872097	14.7
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	20601	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	21031	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	21405	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	21579	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	22178	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	22321	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	22813	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	23199	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	61710	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	64849	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	68004	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	68643	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	71210	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	73523	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	75154	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	77691	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	357488	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	360872	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	363809	Suppressed
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	11	365722	Unreliable
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	13	367288	Unreliable
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	20	368653	5.4
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	31	369956	8.4
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	41	370530	11.1
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	48	2524158	1.9
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	61	2527470	2.4
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	82	2531827	3.2
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	118	2536091	4.7
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	147	2541560	5.8
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	246	2543066	9.7
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	277	2544739	10.9
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	354	2546303	13.9
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	35903	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	36409	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	36943	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	37628	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	38078	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	38387	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	38570	Suppressed
+	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	38653	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	4076	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	4425	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	4604	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	4706	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	4958	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	5507	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	5345	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	5753	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	5334	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	5592	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	5845	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	5637	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	5809	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	5912	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	6079	Suppressed
+	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	6358	Suppressed
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	12	464485	Unreliable
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	467697	Suppressed
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	24	471938	5.1
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	12	476804	Unreliable
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	13	480111	Unreliable
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	15	485046	Unreliable
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	24	488072	4.9
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	43	493337	8.7
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	13969	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	14292	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	14707	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	15012	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	15409	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	15830	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	16198	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	16985	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	21064	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	22581	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	24465	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	26040	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	27372	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	28725	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	29287	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	29529	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	52465	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	53756	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	54898	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	55371	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	57068	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	58428	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	59604	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	60836	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	842328	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	846234	Suppressed
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	14	851098	Unreliable
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	12	854248	Unreliable
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	17	858282	Unreliable
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	18	860399	Unreliable
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	29	861360	3.4
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	42	860463	4.9
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	26094	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	26682	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	27327	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	27918	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	28773	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	29552	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	30320	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	30999	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	122838	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	128423	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	134277	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	138131	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	143600	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	10	144608	Unreliable
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	10	147616	Unreliable
+	"Nevada"	"32"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	11	155639	Unreliable
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	139442	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	143899	Suppressed
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	10	148780	Unreliable
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	21	156236	13.4
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	18	163211	Unreliable
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	23	169042	13.6
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	36	174842	20.6
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	45	182485	24.7
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	90	1117060	8.1
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	74	1127789	6.6
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	96	1140167	8.4
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	132	1151712	11.5
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	163	1168165	14.0
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	193	1178353	16.4
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	163	1192049	13.7
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	202	1203517	16.8
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	2476	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	2535	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	2555	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	2635	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	2663	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	2760	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	2766	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	2860	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	16734	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	17397	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	17912	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	18435	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	19279	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	21091	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	21091	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	21667	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	12943	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	13270	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	13429	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	13677	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	14376	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	15703	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	16356	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	17028	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	621560	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	622267	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	623760	Suppressed
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	10	626113	Unreliable
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	17	628691	Unreliable
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	24	632712	3.8
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	36	633580	5.7
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	44	635439	6.9
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	32144	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	32075	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	32235	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	32200	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	32642	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	32725	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	33154	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	35641	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	415743	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	428671	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	440706	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	444785	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	459263	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	452495	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	451878	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	464037	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	646106	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	654039	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	660048	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	666395	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	671853	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	668991	Suppressed
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	15	669681	Unreliable
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	22	678583	3.2
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	12	3249972	Unreliable
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	11	3247167	Unreliable
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	21	3239127	0.6
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	30	3224364	0.9
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	54	3232816	1.7
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	80	3197983	2.5
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	134	3185874	4.2
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	149	3164788	4.7
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	111080	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	111508	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	112713	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	113151	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	116785	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	117395	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	17	117841	Unreliable
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	19	119538	Unreliable
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	19295	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	19717	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	20327	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	19917	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	20297	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	20802	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	20820	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	22215	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	33498	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	34086	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	34610	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	33950	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	34466	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	35221	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	36052	Suppressed
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	18	37295	Unreliable
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	47	869736	5.4
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	77	867571	8.9
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	78	865771	9.0
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	94	863645	10.9
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	98	862596	11.4
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	142	863867	16.4
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	176	862719	20.4
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	191	863411	22.1
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	110053	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	111526	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	112239	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	112747	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	113768	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	111687	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	111403	Suppressed
+	"New York"	"36"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	114546	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	816354	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	847983	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	874938	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	880842	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	906899	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	881019	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	883600	Suppressed
+	"New York"	"36"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	899089	Suppressed
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	1681523	Suppressed
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	1701776	Suppressed
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	1712668	Suppressed
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	12	1715678	Unreliable
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	19	1729635	Unreliable
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	11	1702819	Unreliable
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	17	1693504	Unreliable
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	48	1692994	2.8
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	32	6928263	0.5
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	54	6919976	0.8
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	57	6911668	0.8
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	90	6878098	1.3
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	109	6887160	1.6
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	99	6792905	1.5
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	161	6759339	2.4
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	246	6683868	3.7
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	81191	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	81873	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	82489	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	83536	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	85086	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	86112	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	87378	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	88808	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	135451	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	143734	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	152740	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	158694	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	168422	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	176268	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	179559	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	190859	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	1054153	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	1067175	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	1080856	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	1094825	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	1109766	Suppressed
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	13	1123641	Unreliable
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	17	1135823	Unreliable
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	41	1150605	3.6
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	25	3529817	0.7
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	18	3551811	Unreliable
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	43	3575940	1.2
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	81	3595897	2.3
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	120	3638164	3.3
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	140	3664840	3.8
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	206	3697504	5.6
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	355	3722310	9.5
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	20686	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	21311	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	22009	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	22099	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	22064	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	22258	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	22594	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	22894	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	5085	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	5540	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	6316	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	6798	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	7193	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	7667	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	7292	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	7540	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	9397	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	10863	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	12616	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	14840	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	15566	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	16733	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	16763	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	17170	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	334833	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	341305	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	347912	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	345237	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	14	342476	Unreliable
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	Suppressed	342692	Suppressed
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	10	343383	Unreliable
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	18	344211	Unreliable
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	20308	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	20567	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	20860	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	21149	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	21478	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	21891	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	22169	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	22583	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	117408	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	124699	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	130144	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	136743	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	144320	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	153287	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	155995	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	163572	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	739464	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	748277	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	757065	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	765004	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	775046	Suppressed
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	23	784418	2.9
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	34	789187	4.3
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	63	797862	7.9
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	31	4782479	0.6
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	44	4781229	0.9
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	69	4778461	1.4
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	154	4768798	3.2
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	380	4772256	8.0
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	357	4771122	7.5
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	549	4763211	11.5
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	690	4748644	14.5
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	12	197872	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	16	200408	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	17	203176	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	29	205599	14.1
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	29	207336	14.0
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	42	209128	20.1
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	32	211316	15.1
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	43	217292	19.8
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	43074	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	46245	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	48779	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	50122	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	51745	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	52289	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	54140	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	55648	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	168123	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	170556	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	173197	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	12	174858	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	11	176305	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	10	177426	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	178521	Suppressed
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	21	181673	11.6
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	79	1498223	5.3
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	69	1502939	4.6
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	101	1511972	6.7
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	145	1513324	9.6
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	145	1512176	9.6
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	160	1514203	10.6
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	178	1516681	11.7
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	210	1516568	13.8
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	43207	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	43747	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	44653	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	45562	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	46476	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	47437	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	48005	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	48863	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	92689	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	97502	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	102036	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	105851	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	110740	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	116304	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	117983	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	121012	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	54257	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	55925	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	57841	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	60159	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	62480	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	11	64823	Unreliable
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	65782	Unreliable
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	67579	Suppressed
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	50	1754257	2.9
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	77	1766926	4.4
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	82	1788640	4.6
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	99	1815438	5.5
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	114	1833293	6.2
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	126	1848930	6.8
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	192	1858957	10.3
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	223	1865007	12.0
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	25348	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	26102	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	26666	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	27577	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	28336	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	29269	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	29854	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	31277	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	204649	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	214678	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	223313	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	227541	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	237543	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	244543	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	249139	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	257156	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	747802	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	758010	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	766652	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	773299	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	781379	Suppressed
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	10	789381	Unreliable
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	26	795575	3.3
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	58	804302	7.2
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	22	5264541	0.4
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	23	5255027	0.4
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	44	5247743	0.8
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	65	5232777	1.2
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	121	5224071	2.3
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	189	5211467	3.6
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	286	5199793	5.5
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	501	5174307	9.7
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	5361	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	5490	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	5598	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	5879	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	6086	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	6261	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	6352	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	6643	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	18398	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	19287	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	19732	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	20020	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	20747	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	20693	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	21253	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	21107	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	43816	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	45304	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	46279	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	47863	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	48780	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	49541	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	50607	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	51910	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	441852	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	441282	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	440340	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	439319	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	10	439378	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	Suppressed	437837	Suppressed
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	15	437463	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	23	435032	5.3
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	14525	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	14679	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	14968	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	15285	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	15494	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	15612	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	15914	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	16369	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	38687	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	40310	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	42348	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	43319	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	46694	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	48944	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	51058	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	53952	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	640860	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	645917	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	651245	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	656551	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	661160	Suppressed
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	17	664556	Unreliable
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	14	668132	Unreliable
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	41	672741	6.1
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	20	1629047	1.2
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	43	1648488	2.6
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	52	1670407	3.1
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	80	1692779	4.7
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	121	1714339	7.1
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	144	1734214	8.3
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	215	1758035	12.2
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	297	1780350	16.7
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	39493	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	39773	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	40203	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	40854	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	41286	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	41931	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	42302	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	42274	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	5496	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	6013	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	6592	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	7176	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	7329	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	8205	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	7548	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	8128	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	11166	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	11716	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	11605	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	12464	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	13200	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	14538	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	14348	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	15150	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	368223	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	371811	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	373576	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	375778	Suppressed
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	12	377145	Unreliable
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	10	380857	Unreliable
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	13	382559	Unreliable
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	12	385107	Unreliable
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	15965	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	16523	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	16889	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	17049	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	17455	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	17972	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	18430	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	19090	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	57404	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	60761	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	63157	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	64882	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	67360	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	69513	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	72599	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	74649	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	540537	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	547451	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	553910	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	558021	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	564074	Suppressed
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	16	567970	Unreliable
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	41	572441	7.2
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	62	576613	10.8
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	44	2553188	1.7
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	45	2567445	1.8
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	69	2583505	2.7
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	113	2602563	4.3
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	178	2627077	6.8
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	286	2647469	10.8
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	379	2668769	14.2
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	605	2687668	22.5
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	152146	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	155153	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	158790	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	160735	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	163132	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	165299	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	167687	Suppressed
+	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	174078	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	612332	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	650528	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	690727	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	716061	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	751874	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	786310	Suppressed
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	11	799868	Unreliable
+	"Texas"	"48"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	22	840472	2.6
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	11	1639737	Unreliable
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	16	1681895	Unreliable
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	17	1724117	Unreliable
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	46	1762079	2.6
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	40	1802959	2.2
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	64	1844873	3.5
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	68	1877438	3.6
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	124	1931175	6.4
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	224	10742787	2.1
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	249	10894810	2.3
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	285	11064156	2.6
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	377	11192557	3.4
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	423	11343828	3.7
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	528	11463624	4.6
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	705	11557709	6.1
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	941	11635326	8.1
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	24649	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	25392	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	26268	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	26964	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	27176	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	27832	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	28442	Suppressed
+	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	28768	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	51809	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	54509	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	57593	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	60010	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	61871	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	65586	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	65940	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	68766	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	26827	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	27747	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	28371	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	29546	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	31035	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	32801	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	33952	Suppressed
+	"Utah"	"49"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	34762	Suppressed
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	62	1355696	4.6
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	63	1372102	4.6
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	79	1394868	5.7
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	96	1419374	6.8
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	132	1441606	9.2
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	145	1465924	9.9
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	152	1486583	10.2
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	141	1505444	9.4
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	1535	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	1548	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	1561	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	1633	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	1606	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	1634	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	1621	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	1631	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	4346	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	4813	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	5065	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	5556	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	5669	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	6184	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	5838	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	6091	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	5243	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	5462	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	5738	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	5862	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	6149	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	6317	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	6410	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	6585	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	298064	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	Suppressed	297026	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	Suppressed	296162	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	Suppressed	295415	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	Suppressed	294832	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	Suppressed	295117	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	Suppressed	294447	Suppressed
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	15	293685	Unreliable
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	26064	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	26615	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	26429	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	26303	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	26702	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	26973	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	27117	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	27938	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	263256	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	274482	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	284617	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	289219	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	299997	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	307809	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	308820	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	320146	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	812253	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	820593	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	830013	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	836261	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	846843	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	853436	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	857420	Suppressed
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	45	867332	5.2
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	12	2960629	Unreliable
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	27	2973554	0.9
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	32	2983706	1.1
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	49	2985031	1.6
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	63	2993185	2.1
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	91	3002430	3.0
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	126	3006900	4.2
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	237	3012115	7.9
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	78217	Suppressed
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	11	80206	Unreliable
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	13	81981	Unreliable
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	83148	Suppressed
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	20	85286	23.5
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	18	87082	Unreliable
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	20	88595	22.6
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	27	90289	29.9
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	307790	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	322880	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	338023	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	351719	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	10	371826	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	13	396058	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	14	409900	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	20	428023	4.7
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	183917	Suppressed
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	10	190325	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	18	195796	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	18	200569	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	18	206724	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	21	214948	9.8
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	33	222027	14.9
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	39	230831	16.9
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	115	2912746	3.9
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	131	2936524	4.5
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	184	2969198	6.2
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	173	3005964	5.8
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	237	3039637	7.8
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	288	3071823	9.4
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	309	3091461	10.0
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	428	3104455	13.8
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	2398	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	2427	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	2459	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	2456	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	2472	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	2508	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	2528	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	2566	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	7625	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	7816	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	8226	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	8372	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	8133	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	8277	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	8012	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	8487	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	40319	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	40823	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	41008	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	40658	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	40181	Suppressed
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	11	40619	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	17	40302	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	15	40955	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	22	865234	2.5
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	27	862849	3.1
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	43	859367	5.0
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	82	854457	9.6
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	144	847834	17.0
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	199	842936	23.6
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	253	836928	30.2
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	433	832268	52.0
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	35571	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	36097	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	36660	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	37019	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	37569	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	38013	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	38627	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	39433	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	76137	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	79957	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	83315	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	85742	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	88247	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	92303	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	92247	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	96818	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	200312	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	202471	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	204744	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	205704	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	208011	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	210722	Suppressed
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	13	212104	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	13	215367	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	12	2540140	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	28	2540982	1.1
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	21	2542881	0.8
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	37	2544961	1.5
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	79	2548911	3.1
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	63	2551235	2.5
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	109	2554231	4.3
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	170	2552098	6.7
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	8502	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	8659	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	8772	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	8741	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	8772	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	8811	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	8777	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	Suppressed	9215	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	3162	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	3303	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	3473	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	3438	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	Suppressed	3405	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	3581	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	3677	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	Suppressed	3783	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	6922	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	Suppressed	6631	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	Suppressed	6245	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	Suppressed	5958	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	Suppressed	5814	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	Suppressed	5836	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	Suppressed	5811	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	Suppressed	5670	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	Suppressed	278692	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	11	279449	Unreliable
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	10	280411	Unreliable
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	10	280805	Unreliable
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	Suppressed	277447	Suppressed
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	11	276306	Unreliable
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	22	276465	8.0
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	23	278223	8.3
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Gender: Male"
+"MCD - ICD-10 Codes: T43.6 (Psychostimulants with abuse potential)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: State; Gender; Race; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 18, 2022 10:37:19 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on May 18, 2022 10:37:19 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

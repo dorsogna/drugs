@@ -1,0 +1,130 @@
+"Notes"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	40	2217452	1.8
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	42	2250008	1.9
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	59	2279263	2.6
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	72	2307116	3.1
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	98	2336730	4.2
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	104	2363298	4.4
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	141	2387147	5.9
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	197	2445447	8.1
+"Total"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"			753	18586461	4.1
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	29	9713037	0.3
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	27	10113992	0.3
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	34	10480265	0.3
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	48	10674120	0.4
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	48	11050388	0.4
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	75	11244827	0.7
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	86	11350332	0.8
+	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	115	11639232	1.0
+"Total"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"			462	86266193	0.5
+	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	39	22761530	0.2
+	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	52	23068743	0.2
+	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	67	23345129	0.3
+	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	114	23563132	0.5
+	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	149	23858372	0.6
+	"Female"	"F"	"Black or African American"	"2054-5"	"2018"	"2018"	213	24045602	0.9
+	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	300	24220575	1.2
+	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	509	24514353	2.1
+"Total"	"Female"	"F"	"Black or African American"	"2054-5"			1443	189377436	0.8
+	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	998	125785218	0.8
+	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	1157	126487826	0.9
+	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	1585	127084866	1.2
+	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	1960	127504222	1.5
+	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	2798	128065569	2.2
+	"Female"	"F"	"White"	"2106-3"	"2018"	"2018"	3383	128385028	2.6
+	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	4207	128624145	3.3
+	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	6069	128628889	4.7
+"Total"	"Female"	"F"	"White"	"2106-3"			22157	1020565763	2.2
+"Total"	"Female"	"F"					24815	1314795853	1.9
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	60	2240482	2.7
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	84	2268973	3.7
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	99	2298590	4.3
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	125	2323039	5.4
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	147	2352317	6.2
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	201	2375990	8.5
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	240	2398056	10.0
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	323	2454038	13.2
+"Total"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"			1279	18711485	6.8
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	72	8917099	0.8
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	80	9284222	0.9
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	135	9622452	1.4
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	142	9813404	1.4
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	185	10160285	1.8
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	241	10356237	2.3
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	291	10464392	2.8
+	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	385	10774505	3.6
+"Total"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"			1531	79392596	1.9
+	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	138	20934741	0.7
+	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	168	21240651	0.8
+	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	260	21518067	1.2
+	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	389	21743888	1.8
+	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	541	22025436	2.5
+	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	726	22217244	3.3
+	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	1012	22378818	4.5
+	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	1759	22666892	7.8
+"Total"	"Male"	"M"	"Black or African American"	"2054-5"			4993	174725737	2.9
+	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	2251	123559280	1.8
+	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	2688	124142641	2.2
+	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	3477	124790188	2.8
+	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	4692	125198592	3.7
+	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	6367	125870081	5.1
+	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	7733	126179208	6.1
+	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	9892	126416058	7.8
+	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	14481	126360767	11.5
+"Total"	"Male"	"M"	"White"	"2106-3"			51581	1002516815	5.1
+"Total"	"Male"	"M"					59384	1275346633	4.7
+"Total"							84199	2590142486	3.3
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T43.6 (Psychostimulants with abuse potential)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Gender; Race; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 18, 2022 4:04:08 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 18, 2022 4:04:08 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
