@@ -8,12 +8,12 @@ This repository contains different notebooks that we used to examine trends in d
 
 ## References
 
-* M. D'Orsogna, L. Böttcher, T. Chou, Acceleration of regional, racial, and gender disparities in drug overdoses across the United States driven by COVID-19 and fentanyl use, preprint
+* M. D'Orsogna, L. Böttcher, T. Chou, Acceleration of regional, racial and gender disparities in drug overdose deaths in the United States driven by fentanyl and methamphetamine use in 2013-2020, preprint
 * CDC Wonder Database [https://wonder.cdc.gov/](https://wonder.cdc.gov/)
 
 ```
 @article{dorsogna2022acceleration,
-  title={Acceleration of regional, racial, and gender disparities in drug overdoses across the United States driven by COVID-19 and fentanyl use},
+  title={Acceleration of regional, racial and gender disparities in drug overdose deaths in the United States driven by fentanyl and methamphetamine use in 2013-2020},
   author={D'Orsogna, Maria and B{\"o}ttcher, Lucas and Chou, Tom},
   year={2022}
 }
