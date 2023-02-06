@@ -1,0 +1,319 @@
+"Notes"	"Census Region"	"Census Region Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	210274	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	213311	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	215716	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	217948	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	221233	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	Suppressed	221890	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	14	223076	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	10	232163	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	1898983	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	1983420	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	2054427	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	2081275	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	15	2155130	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	Suppressed	2133111	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	21	2142824	1.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	19	2185692	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	26	4047969	0.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	33	4100002	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	61	4130918	1.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	152	4147716	3.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	235	4193445	5.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2018"	"2018"	362	4172657	8.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	421	4173672	10.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	614	4197476	14.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	207	22541834	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	434	22506245	1.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	693	22457574	3.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	1476	22360010	6.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	1841	22370467	8.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2018"	"2018"	2288	22222991	10.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	2338	22139556	10.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	2823	21991019	12.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	212192	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	215071	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	217577	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	21	219681	9.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	24	222674	10.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	25	222704	11.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	27	224073	12.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	28	233293	12.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	1768629	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	1840271	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	14	1901596	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	35	1922967	1.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	60	1987785	3.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	65	1974427	3.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	73	1985563	3.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	111	2032154	5.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	26	3638549	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	55	3693590	1.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	139	3732849	3.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	375	3760839	10.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	670	3802988	17.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	914	3793231	24.1
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	1174	3797834	30.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	1868	3831098	48.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	365	21624643	1.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	947	21600423	4.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	2151	21573234	10.0
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	4412	21499074	20.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	6009	21516859	27.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	6680	21370068	31.3
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	6892	21296205	32.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	8350	21146974	39.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	324915	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	329183	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	333246	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	22	336810	6.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	24	341216	7.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	17	345268	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	45	349147	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	77	354373	21.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	1103917	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	1157549	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	1208086	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	1232746	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	10	1282272	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	10	1328590	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	Suppressed	1337999	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	17	1371171	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	24	3960854	0.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	46	3989286	1.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	84	4013744	2.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	232	4030952	5.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	372	4069540	9.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2018"	"2018"	457	4096940	11.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	558	4120271	13.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	822	4158823	19.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	286	28867540	1.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	452	28874160	1.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	743	28857124	2.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	1343	28807242	4.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	2061	28826999	7.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2018"	"2018"	2006	28809769	7.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	2137	28779887	7.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	2951	28697083	10.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	325506	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	329241	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	333660	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	22	336638	6.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	39	340914	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	44	344572	12.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	53	348224	15.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	82	353184	23.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	1039108	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	1093651	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	1143381	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	15	1173100	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	27	1220750	2.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	23	1268223	1.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	26	1279895	2.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	58	1315472	4.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	19	3667276	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	94	3702407	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	222	3734275	5.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	624	3759819	16.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	1036	3797106	27.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	1232	3827337	32.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	1502	3850513	39.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	2332	3888360	60.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	326	28258774	1.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	712	28269631	2.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	1475	28283887	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	3113	28264122	11.0
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	4665	28300554	16.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	4559	28288045	16.1
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	4944	28263068	17.5
+	"Census Region 2: Midwest"	"CENS-R2"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	7133	28178278	25.3
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	653894	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	664896	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	675280	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	11	684398	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	Suppressed	694891	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	17	705255	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	24	715148	3.4
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	46	736482	6.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	2170237	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	2284603	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	2395895	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	11	2460320	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	12	2564859	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	17	2647352	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	13	2683957	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	34	2788595	1.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	44	12605822	0.3
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	64	12795792	0.5
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	100	12983655	0.8
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	281	13145568	2.1
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	394	13325992	3.0
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2018"	"2018"	427	13473160	3.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	598	13601693	4.4
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	1116	13794303	8.1
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	555	44876782	1.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	716	45307867	1.6
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	1018	45728115	2.2
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	1706	46090639	3.7
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	2518	46456354	5.4
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2018"	"2018"	2560	46787319	5.5
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	2943	47049268	6.3
+	"Census Region 3: South"	"CENS-R3"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	4784	47307204	10.1
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	670851	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	15	680637	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	690718	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	22	698972	3.1
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	33	708745	4.7
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	27	718048	3.8
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	48	727190	6.6
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	108	748384	14.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	2000788	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	2106154	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	10	2211581	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	30	2269176	1.3
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	47	2371029	2.0
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	46	2445522	1.9
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	50	2479910	2.0
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	107	2585852	4.1
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	49	11427850	0.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	142	11598321	1.2
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	281	11765626	2.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	767	11919849	6.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	1137	12086250	9.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	1372	12218852	11.2
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	1837	12322612	14.9
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	3221	12492217	25.8
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	610	43977229	1.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	1137	44333664	2.6
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	1875	44731977	4.2
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	3772	45050652	8.4
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	5757	45450504	12.7
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	5977	45758440	13.1
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	6989	46000670	15.2
+	"Census Region 3: South"	"CENS-R3"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	11822	46209717	25.6
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	1028369	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	Suppressed	1042618	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	1055021	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	Suppressed	1067960	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	18	1079390	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	26	1090885	2.4
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	30	1099776	2.7
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	96	1122429	8.6
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	4539900	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	Suppressed	4688420	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	Suppressed	4821857	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	Suppressed	4899779	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	12	5048127	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	10	5135774	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	19	5185552	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	41	5293774	0.8
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	11	2146885	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	11	2183663	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	10	2216812	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	19	2238896	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	18	2269395	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2018"	"2018"	53	2302845	2.3
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	117	2324939	5.0
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	204	2363751	8.6
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	251	29499062	0.9
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	287	29799554	1.0
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	271	30042053	0.9
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	290	30246331	1.0
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	397	30411749	1.3
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2018"	"2018"	540	30564949	1.8
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	790	30655434	2.6
+	"Census Region 4: West"	"CENS-R4"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	1597	30633583	5.2
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	Suppressed	1031933	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	10	1044024	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	Suppressed	1056635	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	10	1067748	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	28	1079984	2.6
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	54	1090666	5.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	80	1098569	7.3
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	190	1119177	17.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	Suppressed	4108574	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	10	4244146	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	10	4365894	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	24	4448161	0.5
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	22	4580721	0.5
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2018"	"2018"	47	4668065	1.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2019"	"2019"	81	4719024	1.7
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"2020 "	"2020"	214	4841027	4.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2013"	"2013"	Suppressed	2201066	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2014"	"2014"	13	2246333	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2015"	"2015"	16	2285317	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2016"	"2016"	32	2303381	1.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2017"	"2017"	75	2339092	3.2
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2018"	"2018"	113	2377824	4.8
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	226	2407859	9.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	613	2455217	25.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2013"	"2013"	240	29698634	0.8
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2014"	"2014"	306	29938923	1.0
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2015"	"2015"	330	30201090	1.1
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2016"	"2016"	561	30384744	1.8
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2017"	"2017"	895	30602164	2.9
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2018"	"2018"	1350	30762655	4.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	2281	30856115	7.4
+	"Census Region 4: West"	"CENS-R4"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	5030	30825798	16.3
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Census Region; Gender; Race; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 18, 2022 12:47:27 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 18, 2022 12:47:27 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
