@@ -1,0 +1,377 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Single Race 6"	"Single Race 6 Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	10	703474	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	70	1726955	4.1
+	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	90	1731214	5.2
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	15	609817	Unreliable
+	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	33	612333	5.4
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	147	1662441	8.8
+	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	180	1664839	10.8
+	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	22	56183	39.2
+	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	15	222552	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	13	57629	Unreliable
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	43	252951	17.0
+	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	35	250933	13.9
+	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	22	195734	11.2
+	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	29	198875	14.6
+	"Arizona"	"04"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	10	183014	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	15	192079	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	175	3023110	5.8
+	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	240	3072080	7.8
+	"Arizona"	"04"	"Female"	"F"	"More than one race"	"M"	"2020 "	"2020"	15	114301	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	29	190169	15.2
+	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	65	192569	33.8
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	51	193983	26.3
+	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	70	202995	34.5
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	541	2990332	18.1
+	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	729	3033739	24.0
+	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	15	105862	Unreliable
+	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	22	112651	19.5
+	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	49	1207645	4.1
+	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	86	1210109	7.1
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	224895	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	17	225971	Unreliable
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	99	1177613	8.4
+	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	153	1178305	13.0
+	"California"	"06"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	19	319909	Unreliable
+	"California"	"06"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	24	328777	7.3
+	"California"	"06"	"Female"	"F"	"Asian"	"A"	"2019"	"2019"	22	3208061	0.7
+	"California"	"06"	"Female"	"F"	"Asian"	"A"	"2020 "	"2020"	33	3265079	1.0
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	88	1283822	6.9
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	118	1283247	9.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	644	14163391	4.5
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	959	13990001	6.9
+	"California"	"06"	"Female"	"F"	"More than one race"	"M"	"2019"	"2019"	40	791837	5.1
+	"California"	"06"	"Female"	"F"	"More than one race"	"M"	"2020 "	"2020"	50	821266	6.1
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	31	329953	9.4
+	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	48	338493	14.2
+	"California"	"06"	"Male"	"M"	"Asian"	"A"	"2019"	"2019"	103	2902884	3.5
+	"California"	"06"	"Male"	"M"	"Asian"	"A"	"2020 "	"2020"	143	2968218	4.8
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	285	1268935	22.5
+	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	449	1272011	35.3
+	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	11	99456	Unreliable
+	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020 "	"2020"	16	101555	Unreliable
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	2054	14261348	14.4
+	"California"	"06"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	3082	14083010	21.9
+	"California"	"06"	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	62	782278	7.9
+	"California"	"06"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	119	814202	14.6
+	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	115	2483497	4.6
+	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	150	2497531	6.0
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	27	141054	19.1
+	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	38	143385	26.5
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	254	2523115	10.1
+	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	400	2536429	15.8
+	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	14	1450582	Unreliable
+	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	30	1438380	2.1
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	54	1390959	3.9
+	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	56	1377265	4.1
+	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	19	348341	Unreliable
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	20	328070	6.1
+	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	27	329557	8.2
+	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	14	1912916	Unreliable
+	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	262	8448054	3.1
+	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	404	8529056	4.7
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	44	1750048	2.5
+	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	88	1780056	4.9
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	580	8149338	7.1
+	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	910	8221103	11.1
+	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	10	243906	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	15	1841232	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	20	1870401	1.1
+	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	126	3221992	3.9
+	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	182	3228123	5.6
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	55	1616915	3.4
+	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	62	1639840	3.8
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	271	3169513	8.6
+	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	363	3171831	11.4
+	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	17	167926	Unreliable
+	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	14	165000	Unreliable
+	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	"2019"	"2019"	16	168876	Unreliable
+	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	"2020 "	"2020"	25	170650	14.6
+	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	"2019"	"2019"	26	246723	10.5
+	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	"2020 "	"2020"	43	242240	17.8
+	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	16	72901	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020 "	"2020"	15	74958	Unreliable
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	30	193391	15.5
+	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	41	190055	21.6
+	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	66	173412	38.1
+	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	63	175791	35.8
+	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	26	828504	3.1
+	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	35	845931	4.1
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	68	833861	8.2
+	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	76	851368	8.9
+	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	10	981449	Unreliable
+	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	16	980947	Unreliable
+	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	73	4904700	1.5
+	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	113	4851727	2.3
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	27	871067	3.1
+	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	64	871528	7.3
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	187	4822215	3.9
+	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	274	4768770	5.7
+	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	189	2888987	6.5
+	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	215	2888044	7.4
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	31	323340	9.6
+	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	38	329184	11.5
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	345	2820605	12.2
+	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	527	2819775	18.7
+	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	63	1441059	4.4
+	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	57	1439071	4.0
+	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	10	68176	Unreliable
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	130	1418021	9.2
+	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	143	1416452	10.1
+	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	44	1264291	3.5
+	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	73	1261822	5.8
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	15	92649	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	12	93093	Unreliable
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	131	1249555	10.5
+	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	135	1246372	10.8
+	"Kentucky"	"21"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	11	191698	Unreliable
+	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	163	1985853	8.2
+	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	216	1985388	10.9
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	15	188350	Unreliable
+	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	40	190415	21.0
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	314	1924070	16.3
+	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	528	1922200	27.5
+	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	10	804910	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	74	1475677	5.0
+	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	103	1470056	7.0
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	28	722394	3.9
+	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	69	723990	9.5
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	141	1443166	9.8
+	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	250	1436850	17.4
+	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	25	648575	3.9
+	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	35	650431	5.4
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	37	620751	6.0
+	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	85	622690	13.7
+	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	25	1789746	1.4
+	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	37	1778580	2.1
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	13	877630	Unreliable
+	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	28	885242	3.2
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	43	1749698	2.5
+	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	74	1736795	4.3
+	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	29	2856794	1.0
+	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	53	2841115	1.9
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	67	2697371	2.5
+	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	111	2681715	4.1
+	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	72	3991100	1.8
+	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	113	3975839	2.8
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	10	668276	Unreliable
+	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	32	665887	4.8
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	150	3920467	3.8
+	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	259	3905488	6.6
+	"Minnesota"	"27"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	18	38568	Unreliable
+	"Minnesota"	"27"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	27	38648	69.9
+	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	47	2372726	2.0
+	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	54	2366949	2.3
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	23	38911	59.1
+	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	26	38837	66.9
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	201980	Unreliable
+	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	26	209093	12.4
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	151	2351205	6.4
+	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	205	2344924	8.7
+	"Mississippi"	"28"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	10	596524	Unreliable
+	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	37	889704	4.2
+	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	63	885918	7.1
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	11	528333	Unreliable
+	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	31	527389	5.9
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	82	868377	9.4
+	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	133	862474	15.4
+	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	11	380087	Unreliable
+	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	18	380821	Unreliable
+	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	153	2578739	5.9
+	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	179	2581848	6.9
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	36	345492	10.4
+	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	56	344474	16.3
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	343	2507449	13.7
+	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	459	2507717	18.3
+	"Montana"	"30"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	11	35918	Unreliable
+	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	19	471016	Unreliable
+	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	11	475631	Unreliable
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	30	479195	6.3
+	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	46	484147	9.5
+	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	17	853980	Unreliable
+	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	20	852980	2.3
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	31	850149	3.6
+	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	48	848836	5.7
+	"Nevada"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	12	160037	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	16	166253	Unreliable
+	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	79	1118349	7.1
+	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	110	1128394	9.7
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	46	156266	29.4
+	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	53	162298	32.7
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	204	1159203	17.6
+	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	246	1168510	21.1
+	"Nevada"	"32"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	10	74859	Unreliable
+	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	24	640231	3.7
+	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	24	641832	3.7
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	41	625866	6.6
+	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	48	627593	7.6
+	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	47	3250089	1.4
+	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	80	3225899	2.5
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	18	636287	Unreliable
+	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	24	644310	3.7
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	145	3138715	4.6
+	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	153	3116792	4.9
+	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	80	866751	9.2
+	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	109	866589	12.6
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	22	111553	19.7
+	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	21	113069	18.6
+	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	18	30975	Unreliable
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	194	849905	22.8
+	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	220	850131	25.9
+	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	13	1812511	Unreliable
+	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	57	6894707	0.8
+	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	124	6820849	1.8
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	17	1600450	Unreliable
+	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	51	1598133	3.2
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	175	6652069	2.6
+	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	259	6575131	3.9
+	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	97	3760766	2.6
+	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	182	3788223	4.8
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	17	1091114	Unreliable
+	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	42	1103269	3.8
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	217	3638721	6.0
+	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	367	3661025	10.0
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	14	338578	Unreliable
+	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	22	339257	6.5
+	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	10	794361	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	20	799739	2.5
+	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	262	4853217	5.4
+	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	329	4835737	6.8
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	35	731209	4.8
+	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	65	736256	8.8
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	584	4699519	12.4
+	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	745	4682216	15.9
+	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	20	187694	10.7
+	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	31	193317	16.0
+	"Oklahoma"	"40"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	12	154280	Unreliable
+	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	98	1475700	6.6
+	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	122	1476246	8.3
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	36	183410	19.6
+	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	45	188837	23.8
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	12	154655	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	25	155928	16.0
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	218	1451654	15.0
+	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	251	1449548	17.3
+	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	14	121635	Unreliable
+	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	16	126387	Unreliable
+	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	69	1842750	3.7
+	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	118	1847670	6.4
+	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	10	50531	Unreliable
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	198	1812386	10.9
+	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	245	1816682	13.5
+	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	12	795984	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	14	801735	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	134	5314026	2.5
+	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	219	5283815	4.1
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	28	744108	3.8
+	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	59	750178	7.9
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	308	5133036	6.0
+	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	521	5104751	10.2
+	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	11	453021	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	16	430104	Unreliable
+	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	23	427530	5.4
+	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	14	747159	Unreliable
+	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	103	1798450	5.7
+	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	174	1824170	9.5
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	14	648264	Unreliable
+	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	43	651680	6.6
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	231	1733598	13.3
+	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	304	1754719	17.3
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	15	377169	Unreliable
+	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	16	379487	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	10	614245	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	29	619048	4.7
+	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	233	2723907	8.6
+	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	315	2745760	11.5
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	45	550216	8.2
+	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	64	553098	11.6
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	423	2630498	16.1
+	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	656	2647701	24.8
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	27	1929490	1.4
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2020 "	"2020"	49	1983954	2.5
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	290	11419748	2.5
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	428	11499060	3.7
+	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	"2020 "	"2020"	21	772307	2.7
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	81	1809731	4.5
+	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	141	1860299	7.6
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	823	11386382	7.2
+	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	1078	11458942	9.4
+	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	61	1442385	4.2
+	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	79	1458831	5.4
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	175	1461747	12.0
+	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	155	1479630	10.5
+	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	16	289536	Unreliable
+	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	69	2980335	2.3
+	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	129	2982964	4.3
+	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	44	823485	5.3
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	132	2942313	4.5
+	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	238	2945153	8.1
+	"Washington"	"53"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	17	73984	Unreliable
+	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	171	2978918	5.7
+	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	206	2985778	6.9
+	"Washington"	"53"	"Female"	"F"	"More than one race"	"M"	"2020 "	"2020"	11	196019	Unreliable
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	22	74471	29.5
+	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	22	75721	29.1
+	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	"2020 "	"2020"	12	359299	Unreliable
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	31	179227	17.3
+	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	38	184599	20.6
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	361	2998778	12.0
+	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	452	3006550	15.0
+	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	15	184980	Unreliable
+	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	"2020 "	"2020"	36	196326	18.3
+	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	136	848475	16.0
+	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	181	843417	21.5
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	16	35072	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	16	35476	Unreliable
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	289	826647	35.0
+	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	483	821623	58.8
+	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	41	2542676	1.6
+	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	"2020 "	"2020"	72	2537327	2.8
+	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020 "	"2020"	10	35154	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	13	192304	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	"2020 "	"2020"	13	193916	Unreliable
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	118	2525105	4.7
+	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	188	2521257	7.5
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	27	272532	9.9
+	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	"2020 "	"2020"	27	274177	9.8
+"---"
+"Dataset: Multiple Cause of Death, 2018-2020, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T43.6 (Psychostimulants with abuse potential)"
+"Year/Month: 2019; 2020"
+"Group By: State; Gender; Single Race 6; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: May 10, 2022 7:16:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on May 10, 2022 7:16:49 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"3. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25, 2020. The"
+"population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal"
+"series released by the Census Bureau on June 20, 2019."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
